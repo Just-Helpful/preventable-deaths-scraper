@@ -1,78 +1,76 @@
-area,Acting Coroner,Area Coroner,Assistant Coroner,Deputy Chief Coroner,Judge Coroner,Retired/Honorary members,Senior Coroner
-Avon,0,1,2,0,0,0,1
-Bedfordshire and Luton,0,0,3,0,0,0,1
-Berkshire,0,1,6,0,0,0,1
-Birmingham and Solihull,0,2,7,0,0,0,1
-Blackpool and Fylde,0,1,8,0,0,0,1
-Buckinghamshire,0,0,0,0,0,0,1
-Cambridgeshire and Peterborough,0,4,4,0,0,0,1
-Carmarthenshire and Pembrokeshire,1,0,0,0,0,0,0
-Ceredigion,0,0,2,0,0,0,1
-Cheshire,0,1,5,0,0,0,1
-Cornwall and the Isles of Scilly,0,0,2,0,0,0,1
-County Durham and Darlington,0,0,6,0,0,0,0
-"County of Devon, Plymouth & Torbay",0,3,2,0,0,0,0
-Coventry,0,2,4,0,0,0,0
-Cumbria,1,0,4,0,0,0,0
-Derby and Derbyshire,0,1,10,0,0,0,0
-Dorset,0,1,4,0,0,0,1
-East Riding of Yorkshire and Kingston-upon-Hull,0,1,6,0,0,0,0
-East Sussex,1,0,5,0,0,0,0
-Essex,0,3,7,0,0,0,1
-Gateshead and South Tyneside,0,0,1,0,0,0,1
-Gloucestershire,0,0,0,0,0,0,2
-Greater Lincolnshire,0,1,6,0,0,0,1
-Greater Manchester North,0,1,4,1,0,0,0
-Greater Manchester South,0,1,5,0,0,0,1
-Greater Manchester West,0,2,7,0,0,0,1
-Gwent,0,0,1,0,0,0,1
-"Hampshire, Portsmouth and Southampton",0,2,9,0,0,0,1
-Herefordshire,0,0,0,0,0,0,1
-Hertfordshire,0,1,6,0,0,0,2
-Isle of Wight,0,0,0,0,0,0,2
-Kent Central and South East,0,1,0,0,0,0,0
-Kent Mid and Medway,0,1,4,0,0,0,1
-Kent North East,0,1,1,0,0,0,0
-Kent North West,0,0,1,0,0,0,1
-Lancashire and Blackburn with Darwen,0,3,11,0,0,0,1
-Leicester City and South Leicestershire,0,2,3,0,0,0,2
-Liverpool and the Wirral,0,1,6,0,0,0,0
-London City,0,0,2,0,0,1,1
-London East,0,0,3,0,0,0,2
-London Inner North,0,0,8,0,0,0,1
-London Inner South,0,0,14,0,0,0,1
-London Inner West,0,0,9,0,0,0,1
-London North,0,3,5,0,0,0,1
-London South,0,0,6,0,0,0,0
-London West,0,0,2,0,0,0,2
-Manchester City,0,2,6,0,0,0,1
-Milton Keynes,0,0,2,0,0,0,1
-Newcastle and North Tyneside,0,0,1,0,0,0,1
-Norfolk,0,2,1,0,0,0,1
-North Wales (East & Central),0,0,1,0,0,0,1
-North West Wales,0,0,0,0,0,0,1
-North Yorkshire and York,0,1,1,0,0,0,1
-Northamptonshire,0,0,2,0,0,0,1
-Northumberland,0,0,0,0,0,0,1
-Nottinghamshire,0,0,12,0,0,0,1
-Oxfordshire,0,0,1,0,0,0,3
-Rutland and North Leicestershire,0,0,0,0,0,0,2
-"Sefton, Knowsley and St Helens",0,0,5,0,0,0,2
-"Shropshire, Telford and Wrekin",0,0,3,0,0,0,0
-Somerset,0,0,2,0,0,0,1
-South Wales Central,0,0,8,0,0,0,1
-Staffordshire and Stoke-on-Trent,0,0,7,0,0,0,2
-Suffolk,0,1,2,0,0,0,2
-Sunderland,0,0,2,0,0,0,1
-Surrey,0,0,7,0,0,0,0
-Swansea and Neath Port Talbot,0,0,2,0,0,0,1
-Teesside and Hartlepool,0,0,4,0,0,0,0
-The Black Country Jurisdiction,0,1,2,0,0,0,0
-Warwickshire,0,0,3,0,0,0,1
-"West Sussex, Brighton and Hove",0,2,7,0,0,0,0
-Wiltshire and Swindon,0,2,0,0,0,0,1
-Worcestershire,0,0,1,0,0,0,1
-Yorkshire South East,0,1,13,0,1,0,2
-Yorkshire South West,0,0,9,0,0,0,2
-Yorkshire West Eastern,0,2,4,0,0,0,0
-Yorkshire West Western,0,0,9,0,0,0,2
+area,Acting Coroner,Area Coroner,Assistant Coroner,Deputy Chief Coroner,Former Coroner,Judge Coroner,Retired/Honorary members,Senior Coroner
+Avon,0,1,4,0,0,0,0,1
+Bedfordshire and Luton,0,0,3,0,0,0,0,1
+Berkshire,0,1,6,0,0,0,0,1
+Birmingham and Solihull,0,2,7,0,0,0,0,1
+Blackpool and Fylde,0,1,5,0,0,0,0,1
+Cambridgeshire and Peterborough,0,3,7,0,0,0,0,2
+Carmarthenshire and Pembrokeshire,1,0,1,0,0,0,0,0
+Ceredigion,0,0,2,0,0,0,0,0
+Cheshire,0,1,3,0,0,0,0,0
+Cornwall and the Isles of Scilly,0,0,3,0,0,0,0,1
+County Durham and Darlington,0,0,7,0,0,0,0,0
+"County of Devon, Plymouth & Torbay",0,3,4,0,0,0,0,1
+Coventry,0,1,3,0,0,0,0,0
+Cumbria,1,0,3,0,0,0,0,0
+Derby and Derbyshire,0,1,7,0,0,0,0,1
+Dorset,0,1,3,0,0,0,0,1
+East Riding of Yorkshire and Kingston-upon-Hull,0,1,6,0,0,0,0,2
+East Sussex,1,0,4,0,0,0,0,0
+Essex,0,3,8,0,0,0,0,1
+Gateshead and South Tyneside,0,0,1,0,0,0,0,1
+Greater Lincolnshire,0,1,5,0,0,0,0,0
+Greater Manchester North,0,1,4,1,0,0,0,0
+Greater Manchester South,0,1,9,0,0,0,0,0
+Greater Manchester West,0,2,8,0,1,0,0,1
+Gwent,0,1,1,0,0,0,0,0
+"Hampshire, Portsmouth and Southampton",0,3,8,0,0,0,0,1
+Herefordshire,0,0,1,0,0,0,0,1
+Hertfordshire,0,1,6,0,0,0,0,0
+Isle of Wight,0,0,0,0,0,0,0,2
+Kent Central and South East,0,1,0,0,0,0,0,0
+Kent Mid and Medway,0,1,5,0,0,0,0,2
+Kent North East,0,1,1,0,0,0,0,0
+Kent North West,0,0,0,0,0,0,0,1
+Lancashire and Blackburn with Darwen,0,2,9,0,0,0,0,1
+Leicester City and South Leicestershire,0,1,2,0,0,0,0,1
+Liverpool and the Wirral,0,1,5,0,0,0,0,2
+London City,0,0,2,0,0,0,1,2
+London East,0,1,5,0,0,0,0,0
+London Inner North,0,0,7,0,0,0,0,1
+London Inner South,0,0,13,0,0,0,0,1
+London Inner West,0,0,7,0,0,0,0,1
+London North,0,1,5,0,0,0,0,1
+London South,0,0,8,0,0,0,0,0
+London West,0,0,4,0,0,0,0,0
+Manchester City,0,2,7,0,0,0,0,1
+Milton Keynes,0,0,2,0,0,0,0,1
+Newcastle and North Tyneside,0,0,4,0,0,0,0,1
+Norfolk,0,2,2,0,0,0,0,1
+North Wales (East & Central),0,0,2,0,0,0,0,0
+North West Wales,0,0,1,0,0,0,0,1
+North Yorkshire and York,0,1,4,0,2,0,0,1
+Northamptonshire,0,0,2,0,0,0,0,1
+Northumberland,0,0,0,0,0,0,0,1
+Nottinghamshire,0,1,11,0,0,0,0,1
+Oxfordshire,0,0,4,0,0,0,0,1
+Rutland and North Leicestershire,0,0,0,0,0,0,0,1
+"Sefton, Knowsley and St Helens",0,0,2,0,0,0,0,1
+"Shropshire, Telford and Wrekin",0,0,1,0,0,0,0,2
+Somerset,0,0,1,0,0,0,0,0
+South Wales Central,0,1,6,0,0,0,0,0
+Staffordshire and Stoke-on-Trent,0,1,5,0,0,0,0,2
+Suffolk,0,1,2,0,0,0,0,1
+Sunderland,0,0,0,0,0,0,0,1
+Surrey,0,1,11,0,0,0,0,2
+Swansea and Neath Port Talbot,0,0,4,0,0,0,0,1
+Teesside and Hartlepool,0,0,4,0,0,0,0,3
+The Black Country Jurisdiction,0,1,2,0,0,0,0,1
+Warwickshire,0,0,6,0,0,0,0,1
+"West Sussex, Brighton and Hove",0,2,7,0,0,0,0,2
+Wiltshire and Swindon,0,2,1,0,0,0,0,1
+Worcestershire,0,0,1,0,0,0,0,1
+Yorkshire South East,0,1,7,0,0,1,0,1
+Yorkshire South West,0,0,7,0,0,0,0,1
+Yorkshire West Eastern,0,2,7,0,0,0,0,2
+Yorkshire West Western,0,0,10,0,0,0,0,1

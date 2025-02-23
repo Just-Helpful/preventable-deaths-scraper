@@ -1,7 +1,7 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-NHS England,335,231,8,96,28.7
-Department of Health and Social Care,298,198,5,95,31.9
-Care Quality Commission,111,84,1,26,23.4
+NHS England,337,232,9,96,28.5
+Department of Health and Social Care,299,198,6,95,31.8
+Care Quality Commission,111,85,0,26,23.4
 HM Prison and Probation Service,63,46,0,17,27.0
 Department for Transport,56,31,4,21,37.5
 Ministry of Justice,50,42,2,6,12.0
@@ -12,20 +12,20 @@ National Institute for Health and Care Excellence,32,25,0,7,21.9
 Department for Education,31,14,0,17,54.8
 National Police Chiefs’ Council,31,22,2,7,22.6
 Leeds Teaching Hospitals NHS Trust,28,13,0,15,53.6
+Highways England,27,10,1,16,59.3
 Homerton Healthcare NHS Foundation Trust,26,20,3,3,11.5
-Highways England,26,10,0,16,61.5
-National Institute for Health & Care Excellence,25,18,1,6,24.0
 Wales Ambulance Service NHS Trust,25,14,0,11,44.0
-Pennine Care NHS Trust,24,14,0,10,41.7
+National Institute for Health & Care Excellence,25,18,1,6,24.0
 Betsi Cadwaladr University Health Board BCUHB,24,19,0,5,20.8
+Pennine Care NHS Trust,24,14,0,10,41.7
 Betsi Cadwaladr University Health Board,24,7,0,17,70.8
-Medicines & Healthcare products Regulatory Agency,23,16,1,6,26.1
 College of Policing,23,12,2,9,39.1
-Midlands Partnership NHS Foundation trust,22,16,1,5,22.7
+Medicines & Healthcare products Regulatory Agency,23,16,1,6,26.1
 Barts Health NHS Foundation Trust,22,18,0,4,18.2
+Midlands Partnership NHS Foundation trust,22,16,1,5,22.7
 Greater Manchester Police,21,8,0,13,61.9
+Birmingham and Solihull Mental Health Foundation Trust,20,13,0,7,35.0
 Worcestershire Acute Hospitals NHS trust,20,13,1,6,30.0
 North East London Foundation Trust,20,15,0,5,25.0
-Birmingham and Solihull Mental Health Foundation Trust,20,13,0,7,35.0
-REDACTED,19,14,4,1,5.3
 Aneurin Bevan University Health Board,19,9,0,10,52.6
+Metropolitan Police,19,8,0,11,57.9
