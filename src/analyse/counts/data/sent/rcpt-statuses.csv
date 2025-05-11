@@ -1,5 +1,5 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-NHS England,352,900,234,70,38,235,9
+NHS England,352,900,234,70,38,238,6
 Department of Health and Social Care,313,836,296,85,31,186,11
 Care Quality Commission,116,341,111,21,19,75,1
 HM Prison and Probation Service,63,159,58,14,10,39,0
@@ -7,7 +7,7 @@ Department for Transport,59,123,44,13,11,33,2
 Ministry of Justice,52,126,35,6,5,41,0
 Home Office,48,140,41,12,6,28,2
 Health and Safety Executive,37,86,34,12,1,22,2
-National Police Chiefs’ Council,33,96,28,7,6,19,1
+National Police Chiefs’ Council,33,96,28,7,6,20,0
 Network Rail,33,48,38,25,2,6,0
 National Institute for Health and Care Excellence,32,75,35,7,2,23,0
 Department for Education,31,70,36,15,5,11,0
@@ -16,7 +16,7 @@ National Institute for Health & Care Excellence,28,74,20,6,1,19,2
 Betsi Cadwaladr University Health Board BCUHB,27,35,7,5,0,20,2
 Highways England,27,38,21,14,2,11,0
 Homerton Healthcare NHS Foundation Trust,27,57,8,3,2,20,2
-College of Policing,26,78,26,6,5,13,2
+College of Policing,26,78,26,6,5,14,1
 Wales Ambulance Service NHS Trust,25,60,39,11,3,11,0
 Pennine Care NHS Trust,24,47,23,10,1,13,0
 Betsi Cadwaladr University Health Board,24,33,20,17,1,6,0
@@ -26,7 +26,7 @@ Midlands Partnership NHS Foundation trust,22,44,13,5,1,16,0
 Metropolitan Police,22,37,17,11,0,10,1
 Birmingham and Solihull Mental Health Foundation Trust,21,60,25,7,4,10,0
 Greater Manchester Police,21,66,27,11,3,7,0
-,21,45,2,1,17,0,3
+,21,45,2,1,18,0,2
 Worcestershire Acute Hospitals NHS trust,20,26,8,6,0,14,0
 North East London Foundation Trust,20,34,9,4,1,15,0
 Aneurin Bevan University Health Board,19,22,12,10,0,9,0
@@ -41,7 +41,7 @@ HM Prison,18,42,10,5,3,10,0
 Royal College of Obstetricians and Gynaecologists,17,45,9,1,2,11,3
 Metropolitan Police Service,17,34,17,7,1,9,0
 Care UK,17,42,16,3,6,8,0
-Department for Digital Culture Media and Sport,17,48,3,2,0,11,4
+Department for Digital Culture Media and Sport,17,48,3,2,1,11,3
 Cardiff and Vale University Health Board,17,34,16,6,0,10,1
 Pennine Care NHS Foundation Trust,16,23,11,10,0,6,0
 Cwm Taf Morgannwg University Health Board,16,22,7,6,0,10,0
@@ -71,12 +71,12 @@ Association of Ambulance Chief Executives,11,50,18,1,3,7,0
 Birmingham City Council,11,34,11,1,3,7,0
 Stockport NHS Foundation Trust,11,11,10,8,0,3,0
 Royal London Hospital,11,12,8,7,0,4,0
-HMPPS,11,30,2,1,0,9,1
+HMPPS,11,30,2,1,0,10,0
 Queen Elizabeth Hospital,11,18,12,5,1,4,1
 North West Ambulance Service,10,45,19,6,0,4,0
 ABMU Health Board,10,15,8,3,0,7,0
 The Royal College of General Practitioners,10,40,10,1,1,7,1
-Royal Stoke University Hospital,10,17,5,3,0,6,1
+Royal Stoke University Hospital,10,17,5,3,0,7,0
 Royal College of Physicians,10,40,7,0,1,9,0
 University Hospitals of Birmingham NHS Foundation Trust,10,16,4,3,0,7,0
 Durham County Council,10,11,8,7,0,3,0
@@ -128,14 +128,14 @@ Royal College of Radiologists,8,25,4,1,1,6,0
 South Central Ambulance Service,8,17,7,2,1,4,1
 London Ambulance Service,8,28,18,4,2,2,0
 St George’s Hospital,8,16,9,2,2,4,0
-University Hospital Southampton NHS Foundation Trust,8,15,4,3,0,4,1
+University Hospital Southampton NHS Foundation Trust,8,15,4,3,0,5,0
 Surrey Police,8,30,4,1,1,6,0
 National Highways,8,17,3,2,0,6,0
 West Sussex County Council,7,10,7,5,0,2,0
 South Wales Police,7,11,5,3,0,4,0
 Royal College of Surgeons,7,21,5,0,1,5,1
 Calderdale Council,7,9,4,2,1,4,0
-West Yorkshire Police,7,15,3,1,0,5,1
+West Yorkshire Police,7,15,3,1,0,6,0
 Stockport NHS Trust,7,15,3,2,0,5,0
 Oxleas NHS Foundation Trust,7,17,5,1,0,6,0
 North Bristol NHS Trust,7,10,3,2,1,4,0
@@ -229,7 +229,7 @@ UK Health Security Agency,4,8,0,0,0,4,0
 Leed City Council,4,5,2,2,0,2,0
 Health Education England,4,13,4,1,0,3,0
 Egton Medical Information Systems,4,13,5,1,0,3,0
-OFCOM,4,11,0,0,0,3,1
+OFCOM,4,11,0,0,0,4,0
 National Police Chiefs Council,4,12,2,0,0,4,0
 CNWL NHS Trust,4,12,4,1,0,3,0
 Food Standards Agency,4,14,9,1,1,2,0
@@ -307,7 +307,7 @@ The Office of Rail & Road,3,8,4,0,1,2,0
 London North West University Healthcare NHS Trust,3,10,3,1,1,1,0
 The Nursing Midwifery Council,3,10,4,0,1,2,0
 Mid Yorkshire NHS Trust,3,5,2,1,0,2,0
-"Department for Science, Innovation and Technology",3,8,0,0,0,2,1
+"Department for Science, Innovation and Technology",3,8,0,0,0,3,0
 Denbighshire County Council,3,7,1,0,0,3,0
 East Sussex County Council,3,4,2,2,0,1,0
 Tameside and Glossop Care NHS Trust,3,4,2,1,0,2,0
@@ -337,7 +337,7 @@ Department for Housing Communities and Local Government,3,9,2,2,0,1,0
 Devon and Cornwall Police,3,11,6,1,2,0,0
 The Showmen’s Guild of Great Britain,3,9,5,0,0,3,0
 TFL,3,4,3,2,0,1,0
-Department for Transport ,3,3,2,0,0,2,1
+Department for Transport ,3,3,2,0,0,3,0
 Manchester City Council,3,7,1,0,1,2,0
 Medway Maritime Hospital,3,3,2,2,0,1,0
 Mid & South Essex NHS Trust,3,5,0,0,0,3,0
@@ -647,7 +647,7 @@ Wigan Council,2,6,2,0,0,2,0
 Whirlpool UK Appliances,2,2,2,2,0,0,0
 North Lincolnshire Council,2,2,1,1,0,1,0
 North Laine Medical Centre,2,4,0,0,0,2,0
-NHS Dorset,2,7,0,0,0,1,1
+NHS Dorset,2,7,0,0,0,2,0
 North Essex Mental Health Partnership Trust,2,2,0,0,0,2,0
 Bristol University,2,3,3,0,0,2,0
 Bristol Community Health,2,3,1,0,0,2,0
@@ -2225,7 +2225,7 @@ Lincolnshire Community Health Service NHS Trust,1,1,1,1,0,0,0
 Leeds Teaching hospitals and York Hospital Legal trust,1,1,0,0,0,1,0
 Ashford and St Peter’s Hospital NHS Trust,1,1,1,1,0,0,0
 Leeds Martial Arts College,1,1,0,0,0,1,0
-Leeds Community Healthcare NHS Trust,1,2,0,0,0,0,1
+Leeds Community Healthcare NHS Trust,1,2,0,0,0,1,0
 Leeds City Council Highways Department,1,1,1,1,0,0,0
 Lean on Me Care Agency,1,1,1,1,0,0,0
 Langley Health Centre,1,5,0,0,0,1,0
@@ -2418,7 +2418,7 @@ Lancashire Teaching Hospitals,1,2,0,0,0,1,0
 Lancashire Care Foundation Trust,1,1,0,0,0,1,0
 Lambton House LTD,1,1,1,1,0,0,0
 HSE Local Government Association,1,4,1,0,0,1,0
-HMPPS ,1,1,0,0,0,0,1
+HMPPS ,1,1,0,0,0,1,0
 HMPS,1,1,1,1,0,0,0
 HMRC,1,1,0,0,0,1,0
 HMYOI Cookham Wood,1,1,1,1,0,0,0
@@ -2440,7 +2440,7 @@ HMP Usk,1,1,0,0,0,1,0
 HMP Styal,1,2,0,0,0,1,0
 HMP Stoke,1,2,2,1,0,0,0
 HMP Ryehill,1,1,0,0,0,1,0
-HMP Rochester ,1,1,0,0,0,0,1
+HMP Rochester ,1,1,0,0,0,1,0
 HMP Ranby ,1,1,0,0,0,1,0
 HMP Ranby,1,3,2,0,0,1,0
 Association of Ambulance,1,3,2,0,1,0,0
