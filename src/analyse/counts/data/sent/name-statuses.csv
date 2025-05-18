@@ -1,6 +1,6 @@
 coroner_name,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses,no. failed parses
 Ms Alison Patricia Mutch OBE,222,278,132,68,4,96,2,51
-Ms Mary Hassell,173,211,106,62,9,58,4,7
+Ms Mary Hassell,173,211,106,62,9,59,3,7
 Mr Professor John S Pollard,88,41,30,20,0,15,0,1
 Ms Nadia Persaud,86,75,29,20,2,40,0,12
 Mr Tom Osborne,82,62,33,23,1,26,0,6
@@ -48,7 +48,7 @@ Mr Nigel Meadows,29,30,17,8,1,10,0,3
 Mrs Emma Elizabeth Whitting,28,34,11,8,1,16,1,2
 Ms Nicola Jane Mundy,28,21,13,10,1,6,0,1
 Dr Séan Cummings,28,43,6,3,0,17,0,5
-Miss Emma Serrano,28,45,13,6,5,14,1,2
+Miss Emma Serrano,28,45,13,6,5,15,0,2
 Ms Patricia Harding,28,22,13,11,0,7,0,4
 Margaret Jones,28,35,19,10,1,9,0,2
 Mr Ian Arrow,27,23,12,8,3,7,0,3
@@ -93,17 +93,17 @@ Mr Crispin Giles Butler,16,23,8,6,1,8,0,0
 Mr Peter J Bedford,16,13,10,3,0,5,0,0
 Ms Yvonne Kathleen Blake,16,19,8,6,0,8,1,1
 Dr Sarah-Jane Richards,16,11,5,4,0,4,0,2
-Miss Rachel Elisabeth Knight,15,21,13,8,0,3,1,3
+Miss Rachel Elisabeth Knight,15,21,13,8,0,4,0,3
 Mr Christopher Dorries,15,17,8,6,1,4,0,0
 Mr Geoffrey Sullivan,15,17,16,10,1,2,0,2
 Mr Robert Craig Simpson,15,21,9,7,0,6,0,2
 Mr Jeremy Chipperfield,15,15,5,5,0,8,0,1
-Dr James Adeley,15,20,2,2,0,10,3,0
+Dr James Adeley,15,20,2,2,0,11,2,0
 Mr SIMON NELSON,15,9,5,4,0,2,0,0
 Dr Nicholas Alastair Shaw,15,13,5,4,0,5,0,4
 Ms Rachel Galloway,15,20,10,4,0,10,0,1
 Dr Simon Fox QC,15,21,9,6,1,7,0,0
-Mrs Joanne Andrews,15,20,3,3,0,9,1,2
+Mrs Joanne Andrews,15,20,3,3,0,10,0,2
 David Urpeath,14,17,11,8,0,3,0,1
 Mr Edwin Buckett,14,15,7,7,0,6,0,1
 Christopher Murray,14,27,6,5,0,8,0,0
@@ -130,16 +130,16 @@ Mr HG Mark Bricknell,13,13,7,5,0,7,0,0
 Mr Gordon Clow,12,18,11,5,1,3,0,3
 Mrs Anne Pember,12,13,7,3,1,3,0,3
 Mr James Edward Thompson,12,11,7,5,0,4,0,3
-Mr Sean Kevan Horstead,12,15,3,0,1,6,2,3
+Mr Sean Kevan Horstead,12,15,3,0,1,7,1,3
 Mr Peter Judge,12,12,2,1,1,4,0,0
 Mrs Samantha Goward,12,14,2,1,0,6,2,2
 Mr Simon Wickens,11,10,5,1,0,4,0,0
 Mrs Karen Harrold,11,17,9,3,1,4,0,2
-Mr Andrew Philip Hetherington,11,12,8,3,1,2,1,4
+Mr Andrew Philip Hetherington,11,12,8,3,1,3,0,4
 Mr Philip Spinney,11,12,8,5,0,6,0,0
 Katie Sutherland,11,7,6,5,0,1,0,5
 Mrs Dianne Hocking,11,10,7,1,1,4,0,5
-Ms Kate Robertson,11,12,0,0,0,9,1,1
+Ms Kate Robertson,11,12,0,0,0,10,0,1
 Melanie Williamson,11,2,0,0,0,2,0,0
 Miss Rachel Raheela Syed,10,18,6,1,1,7,0,1
 Mr Robert Cohen,10,7,1,1,0,5,0,3
@@ -346,7 +346,7 @@ Mrs Rebecca Sutton,2,5,0,0,0,2,0,0
 Sarah Huntbach,2,2,0,0,0,2,0,0
 Sara Lewis,2,0,0,0,0,0,0,0
 Rosemary Jane Baxter,2,2,0,0,0,2,0,0
-Ms Jyoti Gill,2,2,0,0,0,0,1,1
+Ms Jyoti Gill,2,2,0,0,0,1,0,1
 Mrs Catharine Palmer,2,2,1,0,1,0,0,1
 Ms Louise Wiltshire,2,5,0,0,0,2,0,0
 Ms Marianne Johnson,2,2,0,0,0,2,0,0

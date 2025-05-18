@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-NHS England,352,900,234,70,38,238,6
-Department of Health and Social Care,313,836,296,85,31,186,11
+NHS England,352,900,234,70,38,240,4
+Department of Health and Social Care,313,836,296,85,31,188,9
 Care Quality Commission,116,341,111,21,19,75,1
 HM Prison and Probation Service,63,159,58,14,10,39,0
 Department for Transport,59,123,44,13,11,33,2
@@ -12,10 +12,10 @@ Network Rail,33,48,38,25,2,6,0
 National Institute for Health and Care Excellence,32,75,35,7,2,23,0
 Department for Education,31,70,36,15,5,11,0
 Leeds Teaching Hospitals NHS Trust,28,33,20,14,1,13,0
-National Institute for Health & Care Excellence,28,74,20,6,1,19,2
-Betsi Cadwaladr University Health Board BCUHB,27,35,7,5,0,20,2
+National Institute for Health & Care Excellence,28,74,20,6,1,20,1
+Betsi Cadwaladr University Health Board BCUHB,27,35,7,5,0,21,1
 Highways England,27,38,21,14,2,11,0
-Homerton Healthcare NHS Foundation Trust,27,57,8,3,2,20,2
+Homerton Healthcare NHS Foundation Trust,27,57,8,3,2,21,1
 College of Policing,26,78,26,6,5,14,1
 Wales Ambulance Service NHS Trust,25,60,39,11,3,11,0
 Pennine Care NHS Trust,24,47,23,10,1,13,0
@@ -38,11 +38,11 @@ Probation Service,18,43,12,5,4,9,0
 Medicines and Healthcare Products Regulatory Agency,18,50,22,5,2,11,0
 NHS Improvement,18,53,24,3,8,7,0
 HM Prison,18,42,10,5,3,10,0
-Royal College of Obstetricians and Gynaecologists,17,45,9,1,2,11,3
+Royal College of Obstetricians and Gynaecologists,17,45,9,1,2,12,2
 Metropolitan Police Service,17,34,17,7,1,9,0
 Care UK,17,42,16,3,6,8,0
 Department for Digital Culture Media and Sport,17,48,3,2,1,11,3
-Cardiff and Vale University Health Board,17,34,16,6,0,10,1
+Cardiff and Vale University Health Board,17,34,16,6,0,11,0
 Pennine Care NHS Foundation Trust,16,23,11,10,0,6,0
 Cwm Taf Morgannwg University Health Board,16,22,7,6,0,10,0
 Barts Health NHS Trust,16,23,15,6,4,6,0
@@ -54,7 +54,7 @@ Civil Aviation Authority,14,25,16,9,0,5,0
 General Medical Council,14,47,19,3,3,8,0
 Nottingham University Hospital NHS Trust,14,23,13,6,0,8,0
 East London NHS Trust,14,18,9,8,0,6,0
-Royal College of Paediatrics and Child Health,14,45,6,1,2,10,1
+Royal College of Paediatrics and Child Health,14,45,6,1,2,11,0
 Driver & Vehicle Licensing Agency,13,23,6,1,6,6,0
 NHS Trafford Clinical Commissioning Group,13,31,14,2,3,8,0
 Swansea Bay University Health Board,12,31,5,2,0,10,0
@@ -80,7 +80,7 @@ Royal Stoke University Hospital,10,17,5,3,0,7,0
 Royal College of Physicians,10,40,7,0,1,9,0
 University Hospitals of Birmingham NHS Foundation Trust,10,16,4,3,0,7,0
 Durham County Council,10,11,8,7,0,3,0
-Royal College Emergency Medicine,10,42,6,0,2,6,2
+Royal College Emergency Medicine,10,42,6,0,2,7,1
 Avon and Wiltshire Mental Health NHS Trust,10,22,6,2,1,7,0
 Transport for London,10,14,10,6,1,3,0
 Tameside & Glossop Integrated Care NHS Foundation Trust,10,14,10,5,0,5,0
@@ -111,7 +111,7 @@ Camden & Islington NHS Trust,8,14,8,4,0,4,0
 Central & North West London NHS Foundation Trust,8,19,5,1,0,7,0
 East Lancashire Hospitals NHS Trust,8,9,3,3,0,5,0
 Central and North West London NHS Trust,8,16,11,3,2,3,0
-Essex Partnership University NHS Foundation Trust,8,15,3,3,0,4,1
+Essex Partnership University NHS Foundation Trust,8,15,3,3,0,5,0
 Welsh Assembly Government,8,24,11,2,1,5,0
 Devon Partnership NHS Trust,8,21,7,3,1,4,0
 Avon Fire and Rescue Services,8,44,10,1,1,6,0
@@ -160,7 +160,7 @@ Lincolnshire County Council,6,10,7,3,1,2,0
 Norfolk and Norwich University Hospital,6,11,6,2,1,3,0
 Maidstone & Tonbridge Wells NHS Trust,6,7,5,4,1,1,0
 Shrewsbury and Telford NHS Trust,6,7,3,3,0,3,0
-Royal Free Hospital,6,10,3,3,0,2,1
+Royal Free Hospital,6,10,3,3,0,3,0
 Mid and South Essex NHS Foundation Trust,6,14,1,1,1,4,0
 Royal Bolton Hospital,6,11,9,5,0,1,0
 The Department for Work and Pensions,6,13,4,1,1,4,0
@@ -578,7 +578,7 @@ Veterinary Medicines Directorate,2,4,0,0,0,2,0
 Northern Care Alliance,2,6,0,0,0,2,0
 Virgin care Coventry LLP,2,6,0,0,0,2,0
 5 Borough Partnership NHS Trust,2,4,5,1,1,0,0
-Midlands Partnership Foundation Trust,2,4,0,0,0,1,1
+Midlands Partnership Foundation Trust,2,4,0,0,0,2,0
 CAFCASS,2,9,1,0,0,2,0
 Walsall MBC,2,5,3,0,0,2,0
 Bury Metropolitan Borough Council,2,4,4,2,0,0,0
@@ -614,7 +614,7 @@ University Hospitals Coventry and Warwickshire NHS Trust,2,3,1,1,0,1,0
 University Hospitals North Midlands NHS Trust,2,4,1,1,0,1,0
 BT,2,6,0,0,0,2,0
 University Hospitals of Derby and Burton NHS Trust,2,3,1,1,0,1,0
-University Hospitals of Morecambe Bay NHS Trust,2,6,2,1,0,0,1
+University Hospitals of Morecambe Bay NHS Trust,2,6,2,1,0,1,0
 NHS Birmingham and Solihull Integrated Care Board,2,7,0,0,0,2,0
 British Maritime Federation,2,4,0,0,0,2,0
 2gether NHS Trust,2,3,1,1,0,1,0
@@ -1508,7 +1508,7 @@ The Difficult Airway Society,1,4,3,0,1,0,0
 AACE’s National Directors of Operations Group,1,4,1,0,0,1,0
 Thames Water,1,3,3,1,0,0,0
 Teva UK Ltd,1,1,1,1,0,0,0
-Stoke Talking Therapies,1,3,0,0,0,0,1
+Stoke Talking Therapies,1,3,0,0,0,1,0
 Tettenhall Medical Practice,1,1,1,1,0,0,0
 Sussex Partnership Foundation NHS Trust,1,2,1,0,1,0,0
 Sussex ICB ,1,1,0,0,0,1,0
@@ -1700,7 +1700,7 @@ County Durham and Darlington NHS Trust Grosvenor Park Care Home,1,2,2,1,0,0,0
 Crown Care,1,1,0,0,0,1,0
 Crossroads House Care Home,1,1,1,1,0,0,0
 Cross City CCG,1,5,0,0,0,1,0
-Crisis Resolution Team,1,3,0,0,0,0,1
+Crisis Resolution Team,1,3,0,0,0,1,0
 Crime Policing and Fire Service,1,3,2,0,1,0,0
 Cricket Green Medical Practice,1,3,3,1,0,0,0
 Credenhill Court Rest Home,1,1,0,0,0,1,0
@@ -2281,7 +2281,7 @@ NHS Hardwick CCG,1,2,1,0,1,0,0
 Amgen Limited,1,3,0,0,0,1,0
 NHS Kent and Medway Clinical Commissioning Group,1,2,0,0,0,1,0
 NHS Kernow,1,3,1,0,0,1,0
-NHS Lancashire and South Cumbria Integrated Care Board,1,4,0,0,0,0,1
+NHS Lancashire and South Cumbria Integrated Care Board,1,4,0,0,0,1,0
 NHS NORTH EAST AND NORTH CUMBRIA INTEGRATED CARE BOARD,1,3,0,0,0,1,0
 NHS Northern Eastern and Western Devon CCG,1,2,1,0,0,1,0
 NHS Specialist Pharmacy Service,1,8,6,0,1,0,0
