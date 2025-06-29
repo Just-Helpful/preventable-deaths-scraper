@@ -1,26 +1,26 @@
 coroner_area,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses,no. failed parses
-Greater Manchester South,475,521,243,140,9,173,5,78
+Greater Manchester South,475,521,243,140,9,174,4,78
 London Inner North,315,374,152,93,11,137,9,13
-"West Sussex, Brighton and Hove",186,192,80,45,7,65,2,30
-Birmingham and Solihull,178,282,155,62,11,69,4,16
+"West Sussex, Brighton and Hove",187,193,80,45,7,66,2,30
+Birmingham and Solihull,178,282,155,62,11,70,3,16
 Surrey,178,239,81,28,14,73,1,23
-London East,165,173,51,28,5,73,3,39
+London East,166,174,51,28,5,73,4,39
 London Inner South,141,192,86,27,11,54,0,16
 South Wales Central,133,153,84,45,4,49,1,6
 Cornwall and the Isles of Scilly,129,160,73,38,8,49,6,20
 Greater Manchester North,128,155,77,37,4,50,0,9
-Nottinghamshire,126,163,68,29,3,57,5,14
+Nottinghamshire,126,163,68,29,3,58,4,14
 Greater Manchester West,125,130,65,40,3,39,8,5
 Norfolk,118,97,64,46,1,28,1,11
-Yorkshire West Eastern,116,122,55,38,1,40,1,15
+Yorkshire West Eastern,117,123,55,38,1,40,2,15
 North Wales (East & Central),105,106,41,35,1,43,1,5
 County Durham and Darlington,98,95,43,28,1,30,2,12
 Avon,97,118,37,19,3,45,1,8
-Essex,94,128,28,13,6,58,5,3
-"Hampshire, Portsmouth and Southampton",93,128,51,27,9,39,0,2
+Essex,95,131,28,13,6,58,6,3
+"Hampshire, Portsmouth and Southampton",94,129,51,27,9,39,1,2
 Yorkshire West Western,92,110,46,22,5,48,1,4
 Yorkshire South West,92,101,39,25,4,42,0,5
-London Inner West,83,128,47,15,7,46,1,3
+London Inner West,83,128,47,15,7,47,0,3
 The Black Country Jurisdiction,83,96,55,32,5,25,0,4
 Cumbria,78,58,34,20,0,22,2,9
 Dorset,76,93,64,26,2,27,2,13
@@ -40,7 +40,7 @@ Staffordshire South,60,49,32,24,1,13,0,2
 Derby and Derbyshire,60,82,19,11,6,32,0,5
 Lincolnshire,60,53,22,15,2,22,1,2
 Wiltshire and Swindon,56,46,19,15,1,17,0,3
-Cheshire,56,66,21,10,3,29,4,5
+Cheshire,56,66,21,10,3,30,3,5
 Yorkshire South East,54,48,25,21,1,14,1,3
 Blackpool and Fylde,52,38,17,17,0,15,1,13
 "Plymouth, Torbay and South Devon",50,48,26,14,3,20,0,3
