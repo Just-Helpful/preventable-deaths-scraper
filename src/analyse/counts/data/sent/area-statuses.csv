@@ -1,10 +1,10 @@
 coroner_area,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses,no. failed parses
 Greater Manchester South,476,523,243,140,9,175,4,78
-London Inner North,316,375,152,93,11,139,8,13
-"West Sussex, Brighton and Hove",187,193,80,45,7,66,2,30
-Birmingham and Solihull,178,282,155,62,11,70,3,16
-Surrey,178,239,81,28,14,73,1,23
-London East,166,174,51,28,5,73,4,39
+London Inner North,316,375,152,93,11,141,6,13
+"West Sussex, Brighton and Hove",187,193,80,45,7,67,1,30
+Birmingham and Solihull,178,282,155,62,11,71,2,16
+Surrey,178,239,81,28,14,74,0,23
+London East,166,174,51,28,5,74,3,39
 London Inner South,141,192,86,27,11,54,0,16
 South Wales Central,135,155,84,45,4,49,3,6
 Cornwall and the Isles of Scilly,129,160,73,38,8,50,5,20
@@ -39,7 +39,7 @@ Lancashire and Blackburn with Darwen,61,65,22,17,1,33,1,1
 Staffordshire South,60,49,32,24,1,13,0,2
 Derby and Derbyshire,60,82,19,11,6,32,0,5
 Lincolnshire,60,53,22,15,2,22,1,2
-Cheshire,57,69,21,10,3,30,4,5
+Cheshire,57,69,21,10,3,31,3,5
 Wiltshire and Swindon,56,46,19,15,1,17,0,3
 Yorkshire South East,55,49,25,21,1,14,2,3
 Blackpool and Fylde,52,38,17,17,0,15,1,13
@@ -71,7 +71,7 @@ Coventry,20,15,3,3,1,8,0,1
 Isle of Wight,19,20,8,4,1,8,0,1
 Northumberland North,17,15,11,5,2,2,0,2
 Herefordshire,17,18,9,5,1,8,0,3
-Rutland and North Leicestershire,15,21,1,0,0,9,1,1
+Rutland and North Leicestershire,15,21,1,0,0,10,0,1
 London City,14,12,5,3,0,5,0,2
 Staffordshire and Stoke-on-Trent,13,22,0,0,0,12,0,0
 Gateshead and South Tyneside,12,17,2,1,0,6,0,1

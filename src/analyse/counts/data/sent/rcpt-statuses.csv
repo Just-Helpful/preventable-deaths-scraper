@@ -1,7 +1,7 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-NHS England,358,920,238,71,39,245,3
-Department of Health and Social Care,325,875,296,85,31,198,11
-Care Quality Commission,118,351,111,21,19,76,2
+NHS England,358,920,238,71,39,246,2
+Department of Health and Social Care,325,875,296,85,31,201,8
+Care Quality Commission,118,351,111,21,19,77,1
 HM Prison and Probation Service,63,159,58,14,10,39,0
 Department for Transport,62,132,47,14,11,36,1
 Ministry of Justice,53,128,35,6,5,42,0
@@ -18,11 +18,11 @@ Homerton Healthcare NHS Foundation Trust,27,57,8,3,2,21,1
 College of Policing,27,81,26,6,5,15,1
 Highways England,27,38,21,14,2,11,0
 ,25,53,2,1,20,0,4
-Barts Health NHS Foundation Trust,25,44,4,4,0,18,3
+Barts Health NHS Foundation Trust,25,44,4,4,0,19,2
 Wales Ambulance Service NHS Trust,25,60,39,11,3,11,0
 Betsi Cadwaladr University Health Board,24,33,20,17,1,6,0
 Pennine Care NHS Trust,24,47,23,10,1,13,0
-Midlands Partnership NHS Foundation trust,23,46,13,5,1,16,1
+Midlands Partnership NHS Foundation trust,23,46,13,5,1,17,0
 Medicines & Healthcare products Regulatory Agency,23,68,32,6,2,15,0
 Metropolitan Police,22,37,17,11,0,11,0
 North East London Foundation Trust,21,35,9,4,1,15,1
@@ -60,7 +60,7 @@ HMPPS,13,34,2,1,0,11,1
 Driver & Vehicle Licensing Agency,13,23,6,1,6,6,0
 NHS Trafford Clinical Commissioning Group,13,31,14,2,3,8,0
 East London NHS Foundation Trust,12,16,4,3,1,8,0
-University Hospitals of Birmingham NHS Foundation Trust,12,21,4,3,0,7,2
+University Hospitals of Birmingham NHS Foundation Trust,12,21,4,3,0,8,1
 Swansea Bay University Health Board,12,31,5,2,0,10,0
 Tameside & Glossop Integrated Care NHS Foundation Trust,12,18,10,5,0,5,2
 Department of Transport,12,23,7,4,0,8,0
@@ -76,7 +76,7 @@ Association of Ambulance Chief Executives,11,50,18,1,3,7,0
 The Royal College of General Practitioners,11,44,10,1,1,8,1
 Norfolk and Suffolk NHS Foundation Trust,11,24,6,3,1,7,0
 East Midlands Ambulance Service,11,23,14,7,1,3,0
-Royal College Emergency Medicine,11,48,6,0,2,8,1
+Royal College Emergency Medicine,11,48,6,0,2,9,0
 Royal London Hospital,11,12,8,7,0,4,0
 Stockport NHS Foundation Trust,11,11,10,8,0,3,0
 NHS England & NHS Improvement,10,31,9,0,1,8,1
@@ -208,7 +208,7 @@ Oxford Health NHS Trust,5,7,5,3,1,1,0
 Leicestershire Partnership NHS Trust,5,6,2,2,0,3,0
 Coventry & Warwickshire Partnership NHS Trust,5,6,1,1,1,3,0
 Coventry and Warwickshire NHS Trust,5,12,1,1,0,4,0
-Department for Transport ,5,5,2,0,0,4,1
+Department for Transport ,5,5,2,0,0,5,0
 Cumbria County Council,5,7,2,2,0,3,0
 "Department for Levelling Up, Housing and Communities",5,6,4,1,1,3,0
 Welsh Ambulance Service,5,8,3,2,0,3,0
@@ -550,7 +550,7 @@ Royal College of Surgeons of England,2,5,1,1,0,1,0
 Hillingdon Hospital NHS Trust,2,6,0,0,0,2,0
 RSSB,2,2,0,0,0,2,0
 Royal College of Paediatricians,2,11,5,0,0,2,0
-Royal College of Paediatrics,2,12,0,0,0,1,1
+Royal College of Paediatrics,2,12,0,0,0,2,0
 Wrexham County Borough Council,2,3,1,0,1,1,0
 HMP Wormwood Scrubs,2,2,1,1,0,1,0
 REDACTED ,2,2,0,0,0,1,1
@@ -588,7 +588,7 @@ Walsall Manor Hospital,2,3,4,1,0,1,0
 "Foreign, Commonwealth & Development Office",2,5,0,0,0,2,0
 Powys Teaching Health Board,2,8,2,1,0,1,0
 International Academics of Emergency Dispatch,2,2,2,1,0,1,0
-Royal Surrey County Hospital NHS Trust,2,7,0,0,0,1,1
+Royal Surrey County Hospital NHS Trust,2,7,0,0,0,2,0
 Greater Manchester NHS Area Team,2,4,4,2,0,0,0
 HM Inspector of Railways,2,4,2,0,1,1,0
 HM Inspector of Prisons,2,8,0,0,0,2,0
@@ -1228,7 +1228,7 @@ The Ivy Grove Surgery,1,2,0,0,0,1,0
 The International Powered Access Federation,1,6,1,0,0,1,0
 The Integrated Care Board (ICB) for North-East London,1,4,0,0,0,1,0
 The Hub,1,2,1,0,0,1,0
-The Royal College of General Practitioners (RCGP) ,1,1,0,0,0,0,1
+The Royal College of General Practitioners (RCGP) ,1,1,0,0,0,1,0
 The Home Office ,1,1,0,0,0,1,0
 The Royal College of Pathology,1,4,0,0,0,1,0
 The Royal Hallamshire Hospital,1,1,0,0,0,1,0
@@ -1241,7 +1241,7 @@ The Right Honourable Jeremy Hunt MP,1,3,0,0,0,1,0
 The Resuscitation Council UK,1,1,0,0,0,1,0
 The Red House (Ashtead) Limited,1,3,0,0,0,1,0
 The Range,1,1,0,0,0,1,0
-The Riverside Group Limited ,1,1,0,0,0,0,1
+The Riverside Group Limited ,1,1,0,0,0,1,0
 The Queen Elizabeth Hospital,1,1,1,1,0,0,0
 The Prison Service,1,2,0,0,0,1,0
 The Priory Hospital Cheadle,1,2,0,0,0,1,0
@@ -1569,7 +1569,7 @@ Skills for Care,1,3,0,0,0,1,0
 Silver Birches Care Home,1,1,1,1,0,0,0
 Whittington Hospital,1,1,1,1,0,0,0
 Macklin Street Surgery,1,4,0,0,0,1,0
-NHS Sussex,1,2,0,0,0,0,1
+NHS Sussex,1,2,0,0,0,1,0
 Church of England,1,2,2,1,0,0,0
 Chief Inspector of Prisons,1,4,1,0,0,1,0
 Chief Medical Officer for Wales,1,1,0,0,0,1,0
@@ -2110,7 +2110,7 @@ Basildon Hospital NHS Trust,1,1,1,1,0,0,0
 Banes CCG,1,2,1,0,0,1,0
 Banes Highways,1,3,0,0,0,1,0
 Bannatyne Group,1,1,1,1,0,0,0
-Barchester Healthcare Ltd ,1,1,0,0,0,0,1
+Barchester Healthcare Ltd ,1,1,0,0,0,1,0
 Barchester Homes,1,1,1,1,0,0,0
 "Barking, Havering & Redbridge University Hospitals NHS Trust",1,1,0,0,0,1,0
 Barnet Council,1,1,1,1,0,0,0
@@ -2154,7 +2154,7 @@ Black Country NHS,1,2,0,0,0,1,0
 Birmingham Women and Childrens Hospital NHS Foundation,1,1,0,0,0,1,0
 Birmingham Women’s NHS Trust,1,3,0,0,0,1,0
 Birmingham and Solihull Integrated Care Board,1,2,0,0,0,1,0
-Birmingham and Solihull Integrated Care Service,1,3,0,0,0,0,1
+Birmingham and Solihull Integrated Care Service,1,3,0,0,0,1,0
 Birmingham and Solihull Integrated Care System,1,2,0,0,0,1,0
 Birmingham and Solihull NHS Foundation Trust,1,5,0,0,0,1,0
 East Surrey Hospital,1,4,3,0,1,0,0
