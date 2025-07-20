@@ -1,31 +1,31 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-NHS England,358,257,2,99,27.7
-Department of Health and Social Care,325,222,8,95,29.2
-Care Quality Commission,118,91,1,26,22.0
-HM Prison and Probation Service,63,46,0,17,27.0
-Department for Transport,62,39,1,22,35.5
-Ministry of Justice,53,47,0,6,11.3
-Home Office,48,32,0,16,33.3
+NHS England,364,258,6,100,27.5
+Department of Health and Social Care,332,222,15,95,28.6
+Care Quality Commission,119,92,1,26,21.8
+HM Prison and Probation Service,64,46,1,17,26.6
+Department for Transport,63,39,2,22,34.9
+Ministry of Justice,54,47,1,6,11.1
+Home Office,50,32,1,17,34.0
 Health and Safety Executive,37,24,0,13,35.1
+Network Rail,34,6,1,27,79.4
 National Police Chiefs’ Council,33,26,0,7,21.2
-Network Rail,33,6,0,27,81.8
 National Institute for Health and Care Excellence,32,25,0,7,21.9
 Department for Education,31,14,0,17,54.8
+National Institute for Health & Care Excellence,29,22,1,6,20.7
+College of Policing,29,17,3,9,31.0
 Leeds Teaching Hospitals NHS Trust,29,13,1,15,51.7
-Betsi Cadwaladr University Health Board BCUHB,28,22,1,5,17.9
-National Institute for Health & Care Excellence,28,22,0,6,21.4
-Homerton Healthcare NHS Foundation Trust,27,23,1,3,11.1
-College of Policing,27,17,1,9,33.3
+Homerton Healthcare NHS Foundation Trust,28,23,2,3,10.7
+Betsi Cadwaladr University Health Board BCUHB,28,23,0,5,17.9
 Highways England,27,11,0,16,59.3
-,25,0,0,25,100.0
+,26,0,0,26,100.0
+Wales Ambulance Service NHS Trust,26,14,1,11,42.3
 Barts Health NHS Foundation Trust,25,19,2,4,16.0
-Wales Ambulance Service NHS Trust,25,14,0,11,44.0
-Betsi Cadwaladr University Health Board,24,7,0,17,70.8
 Pennine Care NHS Trust,24,14,0,10,41.7
-Midlands Partnership NHS Foundation trust,23,18,0,5,21.7
+Betsi Cadwaladr University Health Board,24,7,0,17,70.8
 Medicines & Healthcare products Regulatory Agency,23,17,0,6,26.1
+Midlands Partnership NHS Foundation trust,23,18,0,5,21.7
 Metropolitan Police,22,11,0,11,50.0
-North East London Foundation Trust,21,15,1,5,23.8
+Greater Manchester Police,22,8,1,13,59.1
+Greater Manchester Integrated Care,22,18,1,3,13.6
 Birmingham and Solihull Mental Health Foundation Trust,21,14,0,7,33.3
-Greater Manchester Police,21,8,0,13,61.9
-Greater Manchester Integrated Care,21,18,0,3,14.3
+North East London Foundation Trust,21,16,0,5,23.8
