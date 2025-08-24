@@ -1,6 +1,6 @@
 sent_to,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses
-NHS England,372,955,245,73,40,249,10
-Department of Health and Social Care,346,941,297,85,31,211,19
+NHS England,372,955,245,73,40,250,9
+Department of Health and Social Care,346,941,297,85,31,213,17
 Care Quality Commission,119,355,111,21,19,78,1
 HM Prison and Probation Service,64,163,58,14,10,39,1
 Department for Transport,63,135,47,14,11,37,1
@@ -11,7 +11,7 @@ Network Rail,34,49,38,25,2,6,1
 National Police Chiefs’ Council,33,96,28,7,6,20,0
 National Institute for Health and Care Excellence,32,75,35,7,2,23,0
 Department for Education,31,70,36,15,5,11,0
-Homerton Healthcare NHS Foundation Trust,30,69,8,3,2,21,4
+Homerton Healthcare NHS Foundation Trust,30,69,8,3,2,22,3
 National Institute for Health & Care Excellence,30,78,20,6,1,21,2
 College of Policing,30,90,26,6,5,16,3
 Leeds Teaching Hospitals NHS Trust,29,39,20,14,1,14,0
@@ -28,7 +28,7 @@ Greater Manchester Integrated Care,23,56,4,3,0,18,2
 Greater Manchester Police,22,68,27,11,3,7,1
 Aneurin Bevan University Health Board,22,25,12,10,0,10,2
 Metropolitan Police,22,37,17,11,0,11,0
-Worcestershire Acute Hospitals NHS trust,21,27,8,6,0,14,1
+Worcestershire Acute Hospitals NHS trust,21,27,8,6,0,15,0
 Birmingham and Solihull Mental Health Foundation Trust,21,60,25,7,4,10,0
 North East London Foundation Trust,21,35,9,4,1,16,0
 REDACTED,20,29,1,1,0,18,1
@@ -61,7 +61,7 @@ Department of Transport,13,26,7,4,0,8,1
 East Midlands Ambulance Service,13,30,14,7,1,3,2
 Sheffield Teaching Hospitals NHS Foundation Trust,13,17,10,6,0,7,0
 Driver & Vehicle Licensing Agency,13,23,6,1,6,6,0
-Milton Keynes University Hospital,13,21,6,4,1,5,3
+Milton Keynes University Hospital,13,21,6,4,1,6,2
 NHS Trafford Clinical Commissioning Group,13,31,14,2,3,8,0
 Norfolk and Suffolk NHS Trust,12,15,14,11,0,1,0
 Transport for London,12,20,13,7,1,3,1
@@ -141,7 +141,7 @@ Royal College of Anaesthetists,8,34,10,1,2,5,0
 South Wales Police,7,11,5,3,0,4,0
 Hampshire County Council,7,14,8,1,4,1,1
 Royal College of Surgeons,7,21,5,0,1,6,0
-Lincolnshire County Council,7,12,7,3,1,2,1
+Lincolnshire County Council,7,12,7,3,1,3,0
 Stockport NHS Trust,7,15,3,2,0,5,0
 HC One,7,10,7,5,1,1,0
 Stepping Hill Hospital,7,15,5,3,0,3,1
@@ -326,7 +326,7 @@ Herefordshire Council,3,4,2,1,0,2,0
 Solent NHS Trust,3,5,2,2,0,1,0
 Leeds and York Partnership NHS Foundation Trust,3,3,3,3,0,0,0
 Resuscitation Council,3,11,11,3,0,0,0
-Lincolnshire Police,3,4,0,0,0,2,1
+Lincolnshire Police,3,4,0,0,0,3,0
 The Lakes Care Centre,3,6,1,1,0,2,0
 Cheshire East Highways Department,3,6,6,3,0,0,0
 Welsh Ambulance Trust,3,4,3,2,0,1,0
@@ -796,7 +796,7 @@ NHS Sussex,1,2,0,0,0,1,0
 North Middlesex University Hospital NHS Trust ,1,1,0,0,0,1,0
 North Midlands NHS Trust,1,1,0,0,0,1,0
 North NHS Trust,1,1,0,0,0,1,0
-North London NHS Foundation Trust ,1,1,0,0,0,0,1
+North London NHS Foundation Trust ,1,1,0,0,0,1,0
 NHS University Hospital Bristol NHS Trust,1,2,0,0,0,1,0
 North Somerset Clinical Commissioning Group,1,2,0,0,0,1,0
 North Staffordshire Combined Healthcare NHS Trust,1,3,2,0,0,1,0
@@ -807,7 +807,7 @@ NHSBT Head Office,1,2,1,0,0,1,0
 North Wales Police,1,1,1,1,0,0,0
 North West Ambulance,1,4,0,0,0,1,0
 Royal College of Obstetrics and Gynaecology,1,2,1,0,0,1,0
-North East and North Cumbria Integrated Care Board,1,5,0,0,0,0,1
+North East and North Cumbria Integrated Care Board,1,5,0,0,0,1,0
 Northamptonshire Healthcare Foundation Trust ,1,1,0,0,0,1,0
 Rochdale Adult Care,1,3,0,0,0,1,0
 North East London NHS Foundation Trust ,1,1,0,0,0,1,0
@@ -2014,7 +2014,7 @@ A ONE+,1,3,0,0,0,1,0
 "2) [REDACTED] Chief Executive Officer, Vitaris UK Healthcare Ltd",1,4,0,0,0,1,0
 "3) [REDACTED], Managing Director, Britannia Pharmaceutical Ltd",1,4,0,0,0,1,0
 "3D Trans, Health and Safety Executive",1,1,0,0,0,1,0
-49 Marine Avenue Surgery,1,5,0,0,0,0,1
+49 Marine Avenue Surgery,1,5,0,0,0,1,0
 5 Boroughs NHS Foundation Trust,1,1,1,1,0,0,0
 5 Boroughs Partnership NHS Foundation Trust Warrington,1,2,2,1,0,0,0
 999 Liaison Committee,1,3,1,0,0,1,0
@@ -2296,7 +2296,7 @@ JV Ltd,1,2,2,1,0,0,0
 Jaguar Land Rover ,1,1,0,0,0,1,0
 James Cook University Hospital,1,1,0,0,0,1,0
 James Paget University Hospital NHS Trust,1,2,0,0,0,1,0
-James Paget University NHS Foundation Trust ,1,1,0,0,0,0,1
+James Paget University NHS Foundation Trust ,1,1,0,0,0,1,0
 Jet2.com Ltd,1,2,2,1,0,0,0
 Jigsaw Homes Group,1,2,1,0,1,0,0
 Jigsaw Homes Tameside,1,1,1,1,0,0,0
@@ -2346,7 +2346,7 @@ Kingston Hospital NHS Trust,1,2,1,0,1,0,0
 Kent and Medway Integrated Care Board,1,3,2,0,1,0,0
 Kendal Calling,1,3,3,1,0,0,0
 Kendray Hospital,1,2,1,0,0,1,0
-Kenny & Murphy Limited ,1,1,0,0,0,0,1
+Kenny & Murphy Limited ,1,1,0,0,0,1,0
 Kent Central Ambulance Service   ,1,1,1,1,0,0,0
 Kent and Canterbury Hospital,1,1,1,1,0,0,0
 Kent and Medway Cancer Collaborative,1,1,0,0,0,1,0
@@ -2396,7 +2396,7 @@ Milton Keynes Urgent Care Service ,1,1,0,0,0,0,1
 "Minister for Education, Wales",1,9,0,0,0,1,0
 Minister for Health,1,3,2,0,0,1,0
 Minister for Health Welsh Assembly Government,1,2,1,0,0,1,0
-Moorbridge School,1,5,0,0,0,0,1
+Moorbridge School,1,5,0,0,0,1,0
 Morton Hall Immigration Removal Centre,1,2,0,0,0,1,0
 Luton & Dunstable University Hospital NHS Trust,1,2,2,1,0,0,0
 NHS England NHS Improvements,1,2,2,1,0,0,0
