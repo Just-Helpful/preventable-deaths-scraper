@@ -1,5 +1,5 @@
 coroner_area,count
-Greater Manchester South,489
+Greater Manchester South,490
 London Inner North,325
 "West Sussex, Brighton and Hove",194
 Birmingham and Solihull,186
@@ -7,16 +7,16 @@ Surrey,183
 London East,177
 South Wales Central,141
 London Inner South,141
-Nottinghamshire,134
+Nottinghamshire,135
+Greater Manchester North,132
 Cornwall and the Isles of Scilly,132
-Greater Manchester North,131
-Greater Manchester West,128
+Greater Manchester West,129
 Norfolk,121
 Yorkshire West Eastern,120
-North Wales (East & Central),105
+North Wales (East & Central),106
 Avon,103
+Essex,102
 "Hampshire, Portsmouth and Southampton",102
-Essex,101
 County Durham and Darlington,101
 Yorkshire West Western,98
 Yorkshire South West,98
@@ -30,8 +30,8 @@ Berkshire,75
 Leicester City and South Leicestershire,75
 Worcestershire,74
 Bedfordshire and Luton,73
-London North,71
-Liverpool and the Wirral,71
+Liverpool and the Wirral,73
+London North,72
 Manchester City,65
 London West,64
 Kent Mid and Medway,64
@@ -42,13 +42,13 @@ Staffordshire South,60
 Yorkshire South East,60
 Cheshire,59
 Wiltshire and Swindon,58
-Blackpool and Fylde,52
+Blackpool and Fylde,53
 "Plymouth, Torbay and South Devon",50
 London South,50
 Gwent,49
 Cambridgeshire and Peterborough,48
 Sunderland,48
-East Riding of Yorkshire and Kingston-upon-Hull,47
+East Riding of Yorkshire and Kingston-upon-Hull,48
 Exeter and Greater Devon,47
 Warwickshire,46
 Stoke on Trent and North Staffordshire,44
@@ -79,9 +79,9 @@ Kent North West,10
 Teesside,10
 Hartlepool,9
 Northumberland,7
+Teesside and Hartlepool,6
 North Lincolnshire and Grimsby,6
 "Sefton, Knowsley and St Helens",6
-Teesside and Hartlepool,5
 Kent and Medway,4
 Ceredigion,2
 Greater Lincolnshire,2
