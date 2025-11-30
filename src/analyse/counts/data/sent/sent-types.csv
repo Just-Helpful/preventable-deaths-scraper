@@ -5,7 +5,7 @@ Care Quality Commission,120,93,1,26,21.7
 Department for Transport,65,41,2,22,33.8
 HM Prison and Probation Service,64,47,0,17,26.6
 Ministry of Justice,56,49,1,6,10.7
-Home Office,56,37,2,17,30.4
+Home Office,56,38,1,17,30.4
 Health and Safety Executive,41,28,0,13,31.7
 Department for Education,34,17,0,17,50.0
 Network Rail,34,7,0,27,79.4
@@ -18,7 +18,7 @@ Leeds Teaching Hospitals NHS Trust,29,14,0,15,51.7
 Betsi Cadwaladr University Health Board BCUHB,28,23,0,5,17.9
 ,28,0,0,28,100.0
 Highways England,27,11,0,16,59.3
-REDACTED,26,19,6,1,3.8
+REDACTED,26,22,3,1,3.8
 Barts Health NHS Foundation Trust,26,22,0,4,15.4
 Wales Ambulance Service NHS Trust,26,15,0,11,42.3
 Betsi Cadwaladr University Health Board,25,7,1,17,68.0
@@ -311,7 +311,7 @@ North Manchester General Hospital,3,1,0,2,66.7
 Denbighshire County Council,3,3,0,0,0.0
 Lancashire Care NHS Trust,3,1,0,2,66.7
 Lancashire Constabulary,3,1,0,2,66.7
-The Commissioner of Police of the Metropolis,3,2,1,0,0.0
+The Commissioner of Police of the Metropolis,3,3,0,0,0.0
 Sunderland City Council,3,2,0,1,33.3
 London Borough of Tower Hamlets,3,1,0,2,66.7
 Surrey & Borders Partnership NHS Trust,3,2,0,1,33.3
@@ -877,7 +877,7 @@ Rocky Lane Medical Centre,1,1,0,0,0.0
 Roche Diagnostics Limited,1,0,0,1,100.0
 National Health Service,1,1,0,0,0.0
 Rochdale Heywood and Middleton Clinical Commissioning Group,1,1,0,0,0.0
-[REDACTED] Chief Executive of Digital Health & Care Wales,1,0,1,0,0.0
+[REDACTED] Chief Executive of Digital Health & Care Wales,1,1,0,0,0.0
 Rochdale Borough Council,1,0,0,1,100.0
 National Institute for Health and Care Excellence (NICE),1,1,0,0,0.0
 Rochdale Adult Care,1,1,0,0,0.0
@@ -1120,7 +1120,7 @@ The Nerams Group ,1,1,0,0,0.0
 The Newcastle Upon Tyne Hospitals NHS Foundation Trust,1,1,0,0,0.0
 The Oaks and Woodcroft Care Home,1,0,0,1,100.0
 The Park Surgery,1,1,0,0,0.0
-"The Minister for Health and Social Services of Wales, [REDACTED]",1,0,1,0,0.0
+"The Minister for Health and Social Services of Wales, [REDACTED]",1,1,0,0,0.0
 The Medicine and Healthcare Products and Regulatory Agency,1,1,0,0,0.0
 The Medical and Healthcare Regulatory Authority,1,1,0,0,0.0
 The Medical Centre,1,0,0,1,100.0
@@ -2082,7 +2082,7 @@ A J Way & Co Ltd,1,1,0,0,0.0
 "1) [REDACTED] Chief Executive, National Institute for Health and Care Excellence",1,1,0,0,0.0
 1. East London Foundation Trust (ELFT),1,1,0,0,0.0
 1. The Chief Executive of the Royal Society for the Prevention of Accidents,1,1,0,0,0.0
-"1. [REDACTED] , Chief Executive Officer, Barts Health NHS Foundation Trust",1,0,1,0,0.0
+"1. [REDACTED] , Chief Executive Officer, Barts Health NHS Foundation Trust",1,1,0,0,0.0
 111 Service,1,0,0,1,100.0
 1st Care 4U,1,1,0,0,0.0
 1st For Health International,1,1,0,0,0.0
