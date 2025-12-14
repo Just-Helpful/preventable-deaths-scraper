@@ -1,29 +1,29 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-NHS England,384,275,8,101,26.3
-Department of Health and Social Care,357,257,5,95,26.6
-Care Quality Commission,120,93,1,26,21.7
-Department for Transport,65,41,2,22,33.8
+NHS England,385,277,7,101,26.2
+Department of Health and Social Care,358,259,4,95,26.5
+Care Quality Commission,121,93,2,26,21.5
+Department for Transport,66,42,2,22,33.3
 HM Prison and Probation Service,64,47,0,17,26.6
-Ministry of Justice,56,49,1,6,10.7
+Ministry of Justice,57,49,2,6,10.5
 Home Office,56,38,1,17,30.4
-Health and Safety Executive,41,28,0,13,31.7
+Health and Safety Executive,42,28,1,13,31.0
+Department for Education,35,17,1,17,48.6
 Network Rail,34,7,0,27,79.4
-Department for Education,34,17,0,17,50.0
 National Police Chiefs’ Council,33,26,0,7,21.2
-National Institute for Health and Care Excellence,32,25,0,7,21.9
 Homerton Healthcare NHS Foundation Trust,32,26,3,3,9.4
-College of Policing,31,21,1,9,29.0
-National Institute for Health & Care Excellence,30,24,0,6,20.0
+National Institute for Health and Care Excellence,32,25,0,7,21.9
+National Institute for Health & Care Excellence,31,24,1,6,19.4
+College of Policing,31,22,0,9,29.0
 Leeds Teaching Hospitals NHS Trust,29,14,0,15,51.7
 Betsi Cadwaladr University Health Board BCUHB,28,23,0,5,17.9
 ,28,0,0,28,100.0
 Highways England,27,11,0,16,59.3
 REDACTED,26,23,2,1,3.8
-Wales Ambulance Service NHS Trust,26,15,0,11,42.3
 Barts Health NHS Foundation Trust,26,22,0,4,15.4
+Wales Ambulance Service NHS Trust,26,15,0,11,42.3
 Betsi Cadwaladr University Health Board,25,7,1,17,68.0
-Pennine Care NHS Trust,24,14,0,10,41.7
 Greater Manchester Integrated Care,24,20,1,3,12.5
+Pennine Care NHS Trust,24,14,0,10,41.7
 Medicines & Healthcare products Regulatory Agency,24,18,0,6,25.0
 Midlands Partnership NHS Foundation trust,23,18,0,5,21.7
 Greater Manchester Police,23,9,1,13,56.5
