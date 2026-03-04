@@ -77,8 +77,8 @@ async function load_page(page) {
 async function load_pdf(data, verbosity = 0) {
   const doc = await pdfjs.getDocument({ data, verbosity }).promise
   const page_nums = Array.from({ length: doc.numPages }, (_, i) => i + 1)
-  const pages = await map_async(page_nums, num =>
-    doc.getPage(num).then(load_page)
+  const pages = await Promise.all(
+    page_nums.map((num) => doc.getPage(num).then(load_page)),
   )
   await doc.destroy()
   return pages.join('\n\n')
