@@ -1,6 +1,6 @@
 import fs from 'fs/promises'
 import Papa from 'papaparse'
-import { fetch_html, map_series } from '../fetch/helpers.js'
+import { fetch_html, ProgressQueue } from '../fetch/helpers.js'
 import { priority_match } from './approx_match.js'
 import {
   get_initials,
@@ -53,6 +53,11 @@ async function fetch_page(page_url) {
   })
 }
 
+const name_queue = new ProgressQueue({
+  format: "Fetching coroners |{bar}| {value}/{total} pages | {eta}s left",
+  capacity: 3,
+});
+
 /**
  * Fetches the list of coroners from the coroner society website
  *
@@ -60,13 +65,10 @@ async function fetch_page(page_url) {
  * @returns {Promise<{name: string, title: string, role: string, email: string}[]>} the list of coroners
  */
 async function fetch_name_list(url) {
-  const page_urls = await fetch_page_urls(url)
-  const pages = await map_series(
-    page_urls,
-    fetch_page,
-    'Fetching coroners |:bar| :current/:total pages'
-  )
-  return pages.flat()
+  const page_urls = await fetch_page_urls(url);
+  const lazy_pages = page_urls.map((page) => () => fetch_page(page));
+  const pages = await name_queue.all(lazy_pages);
+  return pages.flat();
 }
 
 /**

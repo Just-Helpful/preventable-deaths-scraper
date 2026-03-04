@@ -1,4 +1,4 @@
-import { fetch_html, map_series } from './helpers.js'
+import { fetch_html, ProgressQueue } from "./helpers.js";
 
 /** Determines the urls of all the pages we need to search
  * @param {string} report_url the prevention of death reports page
@@ -35,16 +35,17 @@ async function fetch_urls_from_page(page_url) {
     .map(link => $(link).attr('href'))
 }
 
+const fetch_queue = new ProgressQueue({
+  format: "Fetching urls |{bar}| {value}/{total} pages | {eta}s left",
+  capacity: 3,
+  max_rate: 3,
+});
+
 /** Determines the urls of all reports that need to be loaded
  * @param {string[]} page_urls the urls of all pages to fetch reports from
  * @return {Promise<string[]>} the report urls to be loaded
  */
 export async function fetch_all_urls(page_urls) {
-  return (
-    await map_series(
-      page_urls,
-      fetch_urls_from_page,
-      'Fetching urls |:bar| :current/:total pages'
-    )
-  ).flat()
+  const lazy_urls = page_urls.map((url) => () => fetch_urls_from_page(url));
+  return (await fetch_queue.all(lazy_urls)).flat();
 }

@@ -11,7 +11,7 @@ import {
   to_acronym
 } from './simplify_destination.js'
 import { merge_failed, load_correction_data, re } from './helpers.js'
-import { map_series } from '../fetch/helpers.js'
+import { ProgressQueue } from '../fetch/helpers.js'
 
 /* Assumptions
 
@@ -59,6 +59,12 @@ export function is_complete_match(text, matches) {
   return without_punctuation.length === 0
 }
 
+const match_queue = new ProgressQueue({
+  format:
+    "Merging destinations |{bar}| {value}/{total} corrections | {eta}s left",
+  capacity: 1,
+});
+
 /**
  * Creates a function that corrects the coroner name to the closest match in the
  * coroner society list and saves the failed matches on close
@@ -73,14 +79,12 @@ export default async function Corrector(keep_failed = true) {
 
   if (corrections.length < 2) corrections.unshift({}, {})
   let known_replacements = [{}, {}]
-  await map_series(
-    Object.keys(corrections[0]),
-    key => {
+  await match_queue.all(
+    Object.keys(corrections[0]).map((key) => async () => {
       const match = try_known_match(key)
       if (match) add_to_known(match)
-    },
-    'Merging destinations |:bar| :current/:total corrections'
-  )
+    }),
+  );
   corrections[0] = known_replacements[0]
   corrections[1] = known_replacements[1]
 
