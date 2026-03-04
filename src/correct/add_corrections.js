@@ -131,7 +131,7 @@ async function categorise_failures(failed) {
 
 async function update_corrections_for(field) {
   const { default: failed } = await import(`./failed_parses/${field}.json`, {
-    assert: { type: 'json' }
+    with: { type: 'json' }
   })
 
   console.log(`- Manual corrections for '${field}' -`)

@@ -54,18 +54,18 @@ export function split_indices(text, regex) {
  */
 export async function load_correction_data(field) {
   const { default: failed } = await import(`./failed_parses/${field}.json`, {
-    assert: { type: 'json' }
+    with: { type: 'json' }
   })
 
   let { default: incorrect } = await import(
     `./incorrect_fields/${field}.json`,
-    { assert: { type: 'json' } }
+    { with: { type: 'json' } }
   )
   incorrect = new Set(incorrect)
 
   const { default: corrections } = await import(
     `./manual_replace/${field}.json`,
-    { assert: { type: 'json' } }
+    { with: { type: 'json' } }
   )
 
   return { failed, incorrect, corrections }
