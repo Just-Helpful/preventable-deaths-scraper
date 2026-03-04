@@ -5,10 +5,10 @@ import {
   fetch_all_urls,
   fetch_page_urls,
   fetch_report,
-  map_async
 } from './fetch/index.js'
 import { parse_report_basic, parse_summary_basic } from './parse/index.js'
 import { write_log } from './write/index.js'
+import { ProgressQueue } from './fetch/helpers.js'
 
 /** Finds all reports already present in our csv
  * @param {string} file_path the path to our reports csv
@@ -31,6 +31,12 @@ async function fetch_seen_reports(file_path) {
  */
 
 /** @typedef {{report_url: string, pdf_url: string, reply_urls: string}} URLs */
+
+const report_queue = new ProgressQueue({
+  format: 'Reading reports |{bar}| {value}/{total} urls | {eta}s left',
+  capacity: 3,
+  max_rate: 0.2, // 1 report per 10 secs at most
+})
 
 /** Fetches and writes reports to the given `.csv` file
  * @template R, S
@@ -61,17 +67,17 @@ export async function write_reports(
   await write_log(log_path, page_urls.length, all_urls.length, urls.length)
 
   if (urls.length === 0) return console.log('Reports up to date!')
-  let new_reports = await map_async(
-    urls,
-    url =>
-      fetch_report(url, parse_report, parse_summary)
-        .then(report => [report, correct_report(report)])
-        .catch(_ => {
+  const lazy_reports = urls.map((url, i) => async () => {
+    try {
+      const report = await fetch_report(url, parse_report, parse_summary)
+      return [report, (correct_report(report))]
+    } catch (e) {
+      console.warn(`\nReport ${i} (${url}) failed with`, e)
           // ignore any errors from this, we'll either get it next time
           // or this report can't be effectively read at all
-        }),
-    'Reading reports |:bar| :current/:total urls'
-  )
+    }
+  })
+  let new_reports = await report_queue.all(lazy_reports)
   new_reports = new_reports.filter(report => report !== undefined)
 
   for (const [report, corrected] of new_reports.reverse()) {
