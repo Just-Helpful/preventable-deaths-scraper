@@ -45,7 +45,6 @@ const report_headings = {
   '6\\s*ACTION SHOULD BE TAKEN': 'action',
   '7\\s*YOUR RESPONSE': 'response',
   '8\\s*COPIES and PUBLICATION': 'copies',
-  9: 'date_of_report' // TODO: find out a good way to match this heading
 }
 
 /** Parses the rows of a table, using the headers

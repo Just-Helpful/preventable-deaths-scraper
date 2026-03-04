@@ -28,13 +28,32 @@ async function try_fetch_summary($, parse_summary) {
   return parse_summary(data_rows.get().map(row => $(row).text()))
 }
 
-/** Attempts to fetch the category of death from the report's tags
+/** Attempts to fetch the date of the report (above the heading)
  *
- * @template S
  * @throws {ElementError}
  * @param {CheerioAPI} $ JQuery in the page given
- * @param {Parser<S>} parse_summary the custom summary parser to use
- * @return {Promise<S>} the formatted summary
+ * @return {Promise<{date_of_report: string}>} the date string
+ */
+async function try_fetch_date($) {
+  const date_path = '#main-content header time.published'
+  const date_elem = $(date_path)
+  if (date_elem.length === 0) return {}
+  if (date_elem.length > 1) return {}
+  
+  const { datetime } = date_elem[0].attribs
+  if (datetime === undefined) return {}
+  const date = new Date(datetime)
+  const day = date.getDay()
+  const month = date.getMonth() + 1
+  const year = date.getFullYear()
+  return { date_of_report: `${day}/${month}/${year}` }
+}
+
+/** Attempts to fetch the category of death from the report's tags
+ *
+ * @throws {ElementError}
+ * @param {CheerioAPI} $ JQuery in the page given
+ * @return {Promise<{category: string}>} the tags, joined with ' | '
  */
 async function try_fetch_tags($) {
   const tag_path = '.single__title + p.pill--single > a'
@@ -113,6 +132,7 @@ export async function fetch_report(report_url, parse_report, parse_summary) {
   const throw_network = err => {
     if (err?.name === 'NetworkError') throw err
   }
+  let date = await try_fetch_date($).catch(throw_network)
   let tags = await try_fetch_tags($).catch(throw_network)
   let summary = await try_fetch_summary($, parse_summary).catch(throw_network)
   let report = await try_fetch_table($, parse_report).catch(throw_network)
@@ -128,6 +148,7 @@ export async function fetch_report(report_url, parse_report, parse_summary) {
     ...report,
     ...summary,
     ...tags,
+    ...date,
     pdf_url,
     report_url,
     reply_urls
