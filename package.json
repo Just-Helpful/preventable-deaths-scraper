@@ -24,8 +24,7 @@
     "fastest-levenshtein": "^1.0.16",
     "inquirer": "^9.2.8",
     "papaparse": "^5.4.1",
-    "pdfjs-dist": "^3.8.162",
-    "pdfreader": "^3.0.0",
-    "progress": "^2.0.3"
+    "pdfjs-dist": "^5.5.207",
+    "pdfreader": "^3.0.0"
   }
 }

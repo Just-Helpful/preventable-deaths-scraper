@@ -1,7 +1,6 @@
 import { load } from 'cheerio/lib/slim'
 import { Presets, SingleBar } from 'cli-progress'
-import pdfjs from 'pdfjs-dist/legacy/build/pdf.js'
-import ProgressBar from 'progress'
+import * as pdfjs from 'pdfjs-dist/legacy/build/pdf.mjs'
 
 /**
  * @typedef {import('pdfjs-dist').PDFPageProxy} PDFPageProxy
