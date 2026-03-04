@@ -15,7 +15,9 @@
     "analyse:label-medical": "python src/analyse/natural-language/label-reports.py --causes medical-causes.txt --output medical-cause-reports.csv"
   },
   "dependencies": {
+    "ansi-colors": "^4.1.3",
     "cheerio": "^1.0.0-rc.12",
+    "cli-progress": "^3.12.0",
     "commander": "^11.0.0",
     "csv-parse": "^5.3.10",
     "date-fns": "^2.30.0",
