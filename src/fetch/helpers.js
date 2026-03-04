@@ -44,7 +44,7 @@ async function retry_fetch(url, n = 50, init = {}) {
 /** Fetches a webpage and loads it with the cheerio library
  * @throws {NetworkError}
  * @param {string} url the url of the page to fetch
- * @return {Promise<CheerioAPI>} the parsed html document
+ * @return the parsed html document
  */
 export async function fetch_html(url) {
   const data = await retry_fetch(url)
