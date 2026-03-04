@@ -62,7 +62,7 @@ async function try_fetch_tags($) {
 async function try_fetch_table($, parse_report) {
   const row_path = 'tbody.govuk-table__body > tr.govuk-table__row'
   const table_rows = $(row_path)
-  if (table_rows.length === 0) throw new ElementError('table rows not found')
+  if (table_rows.length === 0) return {}
 
   // we need to clean up the html a bit
   table_rows.before('\n')
