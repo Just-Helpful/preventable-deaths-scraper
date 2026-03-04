@@ -1,8 +1,6 @@
 /**
  * @template R
- * @callback Parser
- * @param {string[]} rows
- * @return {R | undefined}
+ * @typedef {(rows: string[]) => R | undefined} Parser
  */
 /**
  * @template O

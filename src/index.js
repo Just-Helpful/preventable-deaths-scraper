@@ -44,8 +44,8 @@ const report_queue = new ProgressQueue({
  * @param {string} csv_path the `.csv` file to write reports to
  * @param {string} log_path where to write a log of the latest fetch
  * @param {string[]} columns the headers we're using for the `.csv` file
- * @param {Parser<R>} parse_report
- * @param {Parser<S>} parse_summary
+ * @param {Parser<R>} parse_report the parser to use for reports
+ * @param {Parser<S>} parse_summary the parser to use for summaries
  */
 export async function write_reports(
   reports_url,
@@ -73,8 +73,8 @@ export async function write_reports(
       return [report, (correct_report(report))]
     } catch (e) {
       console.warn(`\nReport ${i} (${url}) failed with`, e)
-          // ignore any errors from this, we'll either get it next time
-          // or this report can't be effectively read at all
+      // ignore any errors from this, we'll either get it next time
+      // or this report can't be effectively read at all
     }
   })
   let new_reports = await report_queue.all(lazy_reports)
