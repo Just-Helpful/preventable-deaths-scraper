@@ -19,7 +19,7 @@ import "./style.scss";
  */
 import Edit from "./edit";
 import Save from "./save";
-import metadata from "./block.json";
+import metadata from "./block.json" with {type: "json"};
 
 /**
  * Every block starts by registering a new block type definition.
