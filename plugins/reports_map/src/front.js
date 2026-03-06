@@ -4,7 +4,7 @@ import { createRoot } from "react-dom/client";
 import ReportHeatMap from "./heatmap/ReportHeatmap.js";
 import color_scales from "./heatmap/report-scales.json";
 import { useEffect, useMemo, useState } from "@wordpress/element";
-import { Flex, RangeControl } from "@wordpress/components";
+import { Flex } from "@wordpress/components";
 // import { Playback } from "./Playback.js";
 import { parse_csv, sum_columns, max_columns } from "./helpers.js";
 
