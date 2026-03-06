@@ -18,8 +18,8 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [18.x]
-        # See supported Node.js release schedule at https://nodejs.org/en/about/releases/
+        node-version: [20.x]
+        # 20.16.0 is required to polyfill PDFjs' DOMMatrix
 
     steps:
     - name: Checkout project
