@@ -15,13 +15,13 @@
 		"start": "wp-scripts start ./src/index.js ./src/front.js"
 	},
 	"devDependencies": {
-		"@wordpress/scripts": "^26.8.0"
+		"@wordpress/scripts": "^31.6.0"
 	},
 	"dependencies": {
 		"@saidaitdriss/multirangeslider": "^1.0.9",
-		"@wordpress/components": "^25.3.0",
-		"@wordpress/element": "^5.14.0",
-		"@wordpress/primitives": "^3.35.0",
+		"@wordpress/components": "^32.3.0",
+		"@wordpress/element": "^6.41.0",
+		"@wordpress/primitives": "^4.41.0",
 		"multi-range-slider-react": "^2.0.3",
 		"papaparse": "^5.4.1",
 		"react": "^18.2.0",
