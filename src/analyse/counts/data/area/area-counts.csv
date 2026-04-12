@@ -1,30 +1,30 @@
 coroner_area,count
-Greater Manchester South,504
-London Inner North,328
+Greater Manchester South,506
+London Inner North,330
 "West Sussex, Brighton and Hove",199
 Birmingham and Solihull,191
 Surrey,187
 London East,183
 South Wales Central,146
 London Inner South,145
-Cornwall and the Isles of Scilly,137
 Nottinghamshire,137
+Cornwall and the Isles of Scilly,137
+Greater Manchester West,132
 Greater Manchester North,132
-Greater Manchester West,131
 Yorkshire West Eastern,123
 Norfolk,123
 Essex,113
 North Wales (East & Central),111
 County Durham and Darlington,108
 "Hampshire, Portsmouth and Southampton",105
-Avon,102
+Avon,103
 Yorkshire South West,101
-Yorkshire West Western,98
+Yorkshire West Western,100
 The Black Country Jurisdiction,92
+Suffolk,91
 London Inner West,90
 Cumbria,90
-Suffolk,89
-Dorset,83
+Dorset,84
 Worcestershire,82
 Milton Keynes,81
 Bedfordshire and Luton,80
@@ -35,39 +35,39 @@ Berkshire,74
 Liverpool and the Wirral,72
 Derby and Derbyshire,67
 London West,67
+Lancashire and Blackburn with Darwen,66
 Manchester City,65
 Cheshire,65
-Lancashire and Blackburn with Darwen,65
 Yorkshire South East,64
 Staffordshire and Stoke-on-Trent,59
 Blackpool and Fylde,57
 Wiltshire and Swindon,57
 Gwent,53
+East Riding of Yorkshire and Kingston-upon-Hull,53
 London South,52
-East Riding of Yorkshire and Kingston-upon-Hull,52
-Sunderland,50
 Cambridgeshire and Peterborough,50
+Sunderland,50
 Northamptonshire,49
 Warwickshire,45
 Gloucestershire,42
 Newcastle and North Tyneside,39
 North Yorkshire and York,36
 Oxfordshire,35
-Hertfordshire,32
 Somerset,32
+Hertfordshire,32
 East Sussex,31
 Swansea and Neath Port Talbot,30
 "Shropshire, Telford and Wrekin",29
-Northumberland,26
+Northumberland,27
 Buckinghamshire,24
+Coventry,23
 Carmarthenshire and Pembrokeshire,23
 North West Wales,23
-Coventry,22
 Herefordshire,19
 Isle of Wight,19
 London City,18
 Rutland and North Leicestershire,17
-Teesside and Hartlepool,15
+Teesside and Hartlepool,16
 Gateshead and South Tyneside,13
 "Sefton, Knowsley and St Helens",8
 Greater Lincolnshire,5
