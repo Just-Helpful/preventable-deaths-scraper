@@ -1,38 +1,38 @@
 coroner_area,count
-Greater Manchester South,506
-London Inner North,330
+Greater Manchester South,507
+London Inner North,331
 "West Sussex, Brighton and Hove",199
-Birmingham and Solihull,191
-Surrey,187
+Birmingham and Solihull,192
+Surrey,189
 London East,183
+London Inner South,146
 South Wales Central,146
-London Inner South,145
-Nottinghamshire,137
+Nottinghamshire,138
 Cornwall and the Isles of Scilly,137
 Greater Manchester West,132
 Greater Manchester North,132
 Yorkshire West Eastern,123
 Norfolk,123
-Essex,113
+Essex,115
 North Wales (East & Central),111
 County Durham and Darlington,108
 "Hampshire, Portsmouth and Southampton",105
 Avon,103
 Yorkshire South West,101
 Yorkshire West Western,100
+Suffolk,93
 The Black Country Jurisdiction,92
-Suffolk,91
-London Inner West,90
+London Inner West,91
 Cumbria,90
 Dorset,84
-Worcestershire,82
+Worcestershire,83
 Milton Keynes,81
 Bedfordshire and Luton,80
 Kent and Medway,79
 Leicester City and South Leicestershire,76
+Berkshire,75
 London North,74
-Berkshire,74
-Liverpool and the Wirral,72
+Liverpool and the Wirral,73
 Derby and Derbyshire,67
 London West,67
 Lancashire and Blackburn with Darwen,66
@@ -40,26 +40,26 @@ Manchester City,65
 Cheshire,65
 Yorkshire South East,64
 Staffordshire and Stoke-on-Trent,59
-Blackpool and Fylde,57
 Wiltshire and Swindon,57
+Blackpool and Fylde,57
+East Riding of Yorkshire and Kingston-upon-Hull,54
 Gwent,53
-East Riding of Yorkshire and Kingston-upon-Hull,53
 London South,52
+Sunderland,51
+Northamptonshire,51
 Cambridgeshire and Peterborough,50
-Sunderland,50
-Northamptonshire,49
-Warwickshire,45
+Warwickshire,46
 Gloucestershire,42
 Newcastle and North Tyneside,39
 North Yorkshire and York,36
-Oxfordshire,35
-Somerset,32
+Oxfordshire,36
 Hertfordshire,32
+Somerset,32
 East Sussex,31
 Swansea and Neath Port Talbot,30
-"Shropshire, Telford and Wrekin",29
+"Shropshire, Telford and Wrekin",30
 Northumberland,27
-Buckinghamshire,24
+Buckinghamshire,25
 Coventry,23
 Carmarthenshire and Pembrokeshire,23
 North West Wales,23
