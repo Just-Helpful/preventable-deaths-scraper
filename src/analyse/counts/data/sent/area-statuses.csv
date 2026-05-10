@@ -15,7 +15,7 @@ Yorkshire West Eastern,123,182,130,66,8,36,2,10
 Norfolk,123,135,104,73,3,29,1,14
 Essex,115,186,106,54,8,46,4,1
 North Wales (East & Central),111,137,94,73,3,26,2,5
-County Durham and Darlington,108,143,118,60,7,22,3,10
+County Durham and Darlington,109,144,118,60,7,22,4,10
 "Hampshire, Portsmouth and Southampton",105,161,97,48,8,35,7,6
 Avon,103,158,92,44,8,33,7,9
 Yorkshire South West,101,142,89,49,6,40,0,5
@@ -27,8 +27,8 @@ Cumbria,91,107,78,42,2,28,2,10
 Dorset,84,171,153,52,7,13,2,8
 Worcestershire,83,105,75,43,7,21,5,5
 Milton Keynes,81,102,66,39,3,23,2,12
+Kent and Medway,80,94,52,33,7,23,2,14
 Bedfordshire and Luton,80,97,55,43,2,23,3,8
-Kent and Medway,79,93,52,33,7,23,1,14
 Leicester City and South Leicestershire,76,101,93,48,4,13,1,9
 London North,75,107,75,38,2,19,2,12
 Berkshire,75,128,100,40,11,17,4,2
@@ -42,7 +42,7 @@ Yorkshire South East,64,74,45,34,0,20,1,8
 Staffordshire and Stoke-on-Trent,59,83,53,30,2,20,1,5
 Wiltshire and Swindon,57,87,51,24,6,15,5,2
 Blackpool and Fylde,57,60,27,24,0,21,1,11
-East Riding of Yorkshire and Kingston-upon-Hull,54,86,63,22,10,12,4,5
+East Riding of Yorkshire and Kingston-upon-Hull,55,87,63,22,10,12,5,5
 Gwent,53,59,45,33,0,15,1,1
 London South,52,95,48,17,7,20,3,2
 Northamptonshire,51,80,42,22,2,15,5,6
