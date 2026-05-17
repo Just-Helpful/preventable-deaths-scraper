@@ -21,11 +21,11 @@
 "IQR of areas" = [ 32.0, 102.5,]
 
 ["coroners' society"]
-"no. names in society" = 669
-"names in society with reports" = [ 415.0, 62.0,]
-"names in society without reports" = [ 254.0, 38.0,]
-"coroners in society male" = [ 266.0, 39.8,]
-"coroners in society female" = [ 265.0, 39.6,]
+"no. names in society" = 670
+"names in society with reports" = [ 415.0, 61.9,]
+"names in society without reports" = [ 255.0, 38.1,]
+"coroners in society male" = [ 266.0, 39.7,]
+"coroners in society female" = [ 266.0, 39.7,]
 "coroners in society unknown" = [ 138.0, 20.6,]
 
 ["coroners in reports"]
