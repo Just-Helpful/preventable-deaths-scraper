@@ -1,11 +1,11 @@
 coroner_name,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses,no. failed parses
 Ms Alison Patricia Mutch OBE,236,313,234,119,9,49,7,52
-Ms Mary Hassell,181,265,187,109,14,42,6,5
+Ms Mary Hassell,181,265,187,109,14,44,4,5
 Ms Nadia Persaud,93,96,68,42,3,27,4,14
 Mr Professor John S Pollard,88,103,58,41,0,37,4,4
 Mr Andrew Cox,87,116,82,42,6,25,1,11
 Mr Tom Osborne,86,87,60,46,1,22,3,11
-Mrs Louise Hunt,81,181,131,41,11,20,7,1
+Mrs Louise Hunt,81,181,131,41,11,21,6,1
 Mrs Jacqueline F Lake,79,90,76,56,1,12,0,9
 Mr graeme Irvine,77,142,94,29,7,24,0,15
 Mr Chris Morris,76,80,63,41,3,12,4,16
@@ -53,7 +53,7 @@ Ms Patricia Harding,30,36,24,16,0,8,1,4
 Mr Nigel Meadows,29,63,23,9,1,14,2,1
 Ms Jacqueline P Devonish,29,33,21,13,2,9,1,3
 Miss Caroline Topping,29,64,50,9,8,8,0,4
-Mr Darren Stewart OBE,28,36,23,10,2,8,2,5
+Mr Darren Stewart OBE,28,36,23,10,2,10,0,5
 Margaret Jones,28,46,24,11,2,12,1,2
 Mr Crispin Oliver,27,43,35,19,4,1,1,2
 Mr Robert Simpson,27,38,29,15,4,5,0,3
@@ -64,7 +64,7 @@ Mr S. McGovern,26,25,11,11,0,12,2,1
 Mr Geraint Williams,26,30,18,12,0,9,3,1
 Mr Andrew Michael Bridgman,26,34,20,11,1,10,0,4
 Ms Katy Skerrett,26,35,22,15,0,9,0,1
-Mr Paul Vernon Marks,24,27,17,11,3,4,3,3
+Mr Paul Vernon Marks,24,27,17,11,3,5,2,3
 Ms Catherine McKenna,24,29,18,14,1,6,1,2
 Mr Oliver Robert Longstaff,24,50,41,16,4,3,1,0
 Mr Philip Barlow,24,40,29,13,1,7,2,1
@@ -86,7 +86,7 @@ Mr DAVID LLEWELYN ROBERTS,21,30,20,11,0,7,1,0
 Mr Graeme David Hughes,21,35,20,13,1,7,0,0
 Mr Hassan Shah,21,47,18,5,1,12,2,1
 Mrs Joanne Andrews,21,29,27,15,1,2,0,3
-Mr Sean Kevan Horstead,21,39,27,11,3,4,1,1
+Mr Sean Kevan Horstead,21,39,27,11,4,4,0,1
 Ms Kate Robertson,21,25,21,16,0,3,0,2
 Mrs Caroline Sarah Sumeray,20,32,10,5,0,10,2,1
 Jennifer Leaming,20,31,18,8,1,9,0,2
@@ -133,7 +133,7 @@ David Urpeath,14,22,12,9,0,5,0,0
 Mrs Anne Pember,14,16,11,7,1,2,1,3
 Mr Robert Chapman,13,16,9,6,0,7,0,0
 Mr HG Mark Bricknell,13,11,11,10,0,1,0,1
-Mr Peter Judge,13,23,13,4,3,4,1,1
+Mr Peter Judge,13,23,13,4,3,5,0,1
 Stephanie Haskey,13,19,10,7,0,6,0,0
 Mrs Samantha Goward,13,15,11,6,2,2,0,2
 Dr Alexander Robert Walker Forrest,13,22,4,3,1,8,0,1
@@ -153,9 +153,9 @@ Katie Sutherland,11,13,6,5,0,3,0,3
 Dr Julian Rupert Laurence Morris,11,27,18,4,2,5,0,0
 Mr Simon Wickens,11,21,11,6,0,5,0,0
 Mr Simon Milburn,11,13,9,6,0,4,0,1
-Mrs LINDA KAREN HADFIELD LEE,11,38,15,2,3,4,1,0
+Mrs LINDA KAREN HADFIELD LEE,11,38,15,2,3,5,0,0
 Chinyere Inyama,10,14,5,3,0,6,1,0
-Mr David Place,10,13,10,5,0,1,1,3
+Mr David Place,10,13,10,5,0,2,0,3
 Mr Zak Golombeck,10,16,12,4,3,1,0,2
 Miss Sarah Murphy,10,7,3,3,0,4,0,3
 Mr Tony Brown,10,14,10,6,1,3,0,0
@@ -171,7 +171,7 @@ Mrs Jean Harkin,10,14,11,7,0,3,0,0
 Mr Ian Brownhill,9,15,8,2,3,2,0,2
 Mr Michael James Pemberton,9,15,12,2,1,5,0,1
 Ms Susan Ridge,9,13,10,6,1,1,0,0
-Mr Nicholas Graham,9,9,7,7,0,1,1,0
+Mr Nicholas Graham,9,9,7,7,0,2,0,0
 Dr David J Osborne,9,9,6,3,0,5,0,0
 Ms Catherine Cundy,9,8,8,5,0,2,0,2
 Ms Deborah Archer,9,16,9,2,1,4,1,1
@@ -216,7 +216,7 @@ Mrs Laura May Bradford,7,16,9,4,0,2,1,0
 Miss Fiona Butler,7,15,13,5,1,1,0,0
 Mr Roger Linton Hatch,7,8,6,5,1,1,0,0
 Mr Henry Frederick Charles,7,22,19,6,0,1,0,0
-Mr Heath Westerman,7,13,6,4,0,2,1,0
+Mr Heath Westerman,7,13,6,4,0,3,0,0
 Mr Russell Ashley Caller,7,10,4,3,0,2,1,1
 Lorna Tagliavini,7,12,8,4,1,2,0,0
 Miss CARLY ELIZABETH HENLEY,7,15,13,4,1,1,0,1
