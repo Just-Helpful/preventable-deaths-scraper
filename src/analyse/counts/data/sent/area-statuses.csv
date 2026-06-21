@@ -2,7 +2,7 @@ coroner_area,no. PFDs,no. recipients,no. replies,no. complete responses,no. part
 Greater Manchester South,507,682,478,254,20,124,22,83
 London Inner North,331,474,343,208,18,78,7,13
 "West Sussex, Brighton and Hove",199,297,213,97,15,56,9,19
-Birmingham and Solihull,192,363,268,111,18,41,8,12
+Birmingham and Solihull,193,364,268,111,18,41,9,12
 Surrey,189,369,218,70,26,63,9,15
 London East,183,263,175,74,11,58,5,29
 London Inner South,146,303,193,62,16,48,10,9
@@ -20,9 +20,9 @@ County Durham and Darlington,109,144,118,60,7,22,4,10
 Avon,103,158,92,44,8,34,6,9
 Yorkshire South West,101,142,89,49,6,40,0,5
 Yorkshire West Western,100,141,85,43,9,33,8,5
+The Black Country Jurisdiction,93,121,71,44,4,30,3,12
 Suffolk,93,113,63,31,3,32,1,25
-The Black Country Jurisdiction,92,120,71,44,4,30,2,12
-London Inner West,91,169,81,26,10,39,8,6
+London Inner West,92,175,81,26,10,39,9,6
 Cumbria,91,107,78,42,2,29,1,10
 Dorset,84,171,153,52,7,14,1,8
 Worcestershire,83,105,75,43,7,22,4,5
@@ -42,14 +42,14 @@ Yorkshire South East,64,74,45,34,0,20,1,8
 Staffordshire and Stoke-on-Trent,59,83,53,30,2,20,1,5
 Wiltshire and Swindon,57,87,51,24,6,15,5,2
 Blackpool and Fylde,57,60,27,24,0,21,1,11
-East Riding of Yorkshire and Kingston-upon-Hull,55,87,63,22,10,14,3,5
+East Riding of Yorkshire and Kingston-upon-Hull,56,88,63,22,10,14,4,5
 Gwent,53,59,45,33,0,15,1,1
 London South,52,95,48,17,7,20,3,2
 Sunderland,51,58,45,29,0,13,0,8
 Northamptonshire,51,80,42,22,2,16,4,6
 Cambridgeshire and Peterborough,50,92,61,20,7,13,1,8
 Warwickshire,46,77,40,18,3,21,2,0
-Gloucestershire,42,51,35,25,0,11,1,4
+Gloucestershire,43,52,35,25,0,11,2,4
 Newcastle and North Tyneside,39,51,42,20,3,13,0,3
 North Yorkshire and York,36,53,33,13,1,16,2,3
 Oxfordshire,36,40,39,31,0,4,0,1
@@ -68,7 +68,7 @@ Isle of Wight,19,34,10,5,0,11,2,1
 London City,18,37,22,7,2,6,1,2
 Rutland and North Leicestershire,17,33,23,6,2,8,0,1
 Teesside and Hartlepool,16,27,22,9,1,4,0,2
-Gateshead and South Tyneside,13,29,10,4,0,8,0,1
+Gateshead and South Tyneside,14,29,10,4,0,8,0,2
 "Sefton, Knowsley and St Helens",8,14,3,0,1,7,0,0
 Greater Lincolnshire,5,13,3,2,0,3,0,0
 Exeter and Greater Devon,4,4,2,2,0,1,0,1
