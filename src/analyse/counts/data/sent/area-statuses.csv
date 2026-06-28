@@ -1,8 +1,8 @@
 coroner_area,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses,no. failed parses
-Greater Manchester South,507,682,478,254,20,124,22,83
+Greater Manchester South,508,682,478,254,20,124,22,84
 London Inner North,331,474,343,208,18,78,7,13
 "West Sussex, Brighton and Hove",199,297,213,97,15,56,9,19
-Birmingham and Solihull,193,364,268,111,18,41,9,12
+Birmingham and Solihull,194,365,269,112,18,41,9,12
 Surrey,189,369,218,70,26,63,9,15
 London East,183,263,175,74,11,58,5,29
 London Inner South,146,303,193,62,16,48,10,9
@@ -27,11 +27,11 @@ Cumbria,91,107,78,42,2,29,1,10
 Dorset,84,171,153,52,7,14,1,8
 Worcestershire,83,105,75,43,7,22,4,5
 Milton Keynes,81,102,66,39,3,23,2,12
+Bedfordshire and Luton,81,98,55,43,2,23,4,8
 Kent and Medway,80,94,52,33,7,23,2,14
-Bedfordshire and Luton,80,97,55,43,2,23,3,8
+Berkshire,76,130,100,40,11,18,4,2
 Leicester City and South Leicestershire,76,101,93,48,4,13,1,9
 London North,75,107,75,38,2,19,2,12
-Berkshire,75,128,100,40,11,18,3,2
 Liverpool and the Wirral,73,99,65,35,8,17,2,8
 London West,70,160,60,28,4,32,2,2
 Derby and Derbyshire,67,113,68,33,10,18,1,3
@@ -48,7 +48,7 @@ London South,52,95,48,17,7,20,3,2
 Sunderland,51,58,45,29,0,13,0,8
 Northamptonshire,51,80,42,22,2,16,4,6
 Cambridgeshire and Peterborough,50,92,61,20,7,13,1,8
-Warwickshire,46,77,40,18,3,21,2,0
+Warwickshire,47,79,43,18,3,21,3,0
 Gloucestershire,43,52,35,25,0,11,2,4
 Newcastle and North Tyneside,39,51,42,20,3,13,0,3
 North Yorkshire and York,36,53,33,13,1,16,2,3
