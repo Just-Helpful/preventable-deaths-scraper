@@ -1,13 +1,13 @@
 coroner_area,no. PFDs,no. recipients,no. replies,no. complete responses,no. partial responses,no. overdue responses,no. pending responses,no. failed parses
 Greater Manchester South,508,682,478,254,20,124,22,84
-London Inner North,332,476,344,208,18,78,8,13
-"West Sussex, Brighton and Hove",200,298,214,98,15,56,9,19
-Birmingham and Solihull,195,366,270,113,18,41,9,12
+London Inner North,333,477,345,209,18,78,8,13
+"West Sussex, Brighton and Hove",201,301,217,99,15,56,9,19
+Birmingham and Solihull,196,368,272,114,18,41,9,12
 Surrey,190,370,219,71,26,63,9,15
 London East,184,264,176,75,11,58,5,29
 South Wales Central,149,251,134,70,11,56,4,8
 London Inner South,146,303,193,62,16,48,10,9
-Nottinghamshire,138,231,139,67,7,48,2,13
+Nottinghamshire,139,234,142,68,7,48,2,13
 Cornwall and the Isles of Scilly,137,188,124,63,12,34,6,21
 Greater Manchester West,132,192,113,59,5,56,3,9
 Greater Manchester North,132,246,157,60,11,43,8,6
@@ -18,7 +18,7 @@ North Wales (East & Central),111,137,94,73,3,26,2,5
 County Durham and Darlington,109,144,118,60,7,23,3,10
 "Hampshire, Portsmouth and Southampton",106,162,98,49,8,35,7,6
 Avon,103,158,92,44,8,34,6,9
-Yorkshire South West,101,142,89,49,6,40,0,5
+Yorkshire South West,102,145,93,49,6,40,1,5
 Yorkshire West Western,100,141,85,43,9,33,8,5
 The Black Country Jurisdiction,93,121,71,44,4,30,3,12
 Suffolk,93,113,63,31,3,32,1,25
@@ -48,11 +48,11 @@ Gwent,53,59,45,33,0,15,1,1
 Sunderland,51,58,45,29,0,13,0,8
 Northamptonshire,51,80,42,22,2,16,4,6
 Cambridgeshire and Peterborough,50,92,61,20,7,13,1,8
-Warwickshire,47,79,43,18,3,21,3,0
+Warwickshire,48,81,45,19,3,21,3,0
 Gloucestershire,43,52,35,25,0,11,2,4
 Newcastle and North Tyneside,39,51,42,20,3,13,0,3
+Oxfordshire,39,43,42,34,0,4,0,1
 North Yorkshire and York,36,53,33,13,1,16,2,3
-Oxfordshire,36,40,39,31,0,4,0,1
 Somerset,32,48,30,14,3,10,2,2
 East Sussex,32,68,52,25,2,5,0,0
 Hertfordshire,32,38,28,21,0,8,1,2
@@ -60,8 +60,8 @@ Hertfordshire,32,38,28,21,0,8,1,2
 Swansea and Neath Port Talbot,30,54,36,17,4,8,1,0
 Northumberland,27,36,27,15,1,8,0,3
 Buckinghamshire,25,34,19,11,1,11,2,0
+Carmarthenshire and Pembrokeshire,24,31,20,14,1,7,1,1
 Coventry,23,39,11,6,1,10,4,2
-Carmarthenshire and Pembrokeshire,23,30,19,13,1,7,1,1
 North West Wales,23,27,23,18,0,3,0,2
 Herefordshire,19,20,19,12,2,1,0,3
 Isle of Wight,19,34,10,5,0,11,2,1
