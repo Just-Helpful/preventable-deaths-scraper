@@ -1,10 +1,10 @@
 sent_to,no. PFDs,overdue,pending,received,% received
-Department of Health and Social Care,584,225,34,325,55.7
-NHS England,488,152,14,322,66.0
-Care Quality Commission,133,69,5,59,44.4
+Department of Health and Social Care,588,225,36,327,55.6
+NHS England,494,152,15,327,66.2
+Care Quality Commission,136,69,8,59,43.4
 Department for Transport,121,41,5,75,62.0
 HM Prison and Probation Service,114,55,9,50,43.9
-Ministry of Justice,102,71,6,25,24.5
+Ministry of Justice,104,71,6,27,26.0
 Home Office,80,30,3,47,58.8
 REDACTED,77,58,1,18,23.4
 Betsi Cadwaladr University Health Board,73,19,6,48,65.8
@@ -13,19 +13,19 @@ National Institute for Health and Care Excellence,53,35,3,15,28.3
 Department for Education,48,21,0,27,56.2
 National Police Chiefs Council,47,23,3,21,44.7
 Network Rail,40,11,1,28,70.0
-College of Policing,38,12,0,26,68.4
+College of Policing,39,12,0,27,69.2
 The Care Quality Commission,36,19,12,5,13.9
 Medicines & Healthcare Products Regulatory Agency,34,24,2,8,23.5
 National Institution for health and care excellence,33,10,0,23,69.7
 Greater Manchester Police,32,8,0,24,75.0
 Metropolitan Police Service,32,12,3,17,53.1
 Blackpool Teaching Hospitals NHS Foundation Trust,30,13,2,15,50.0
-Metropolitan Police,28,7,2,19,67.9
 ,28,0,0,28,100.0
-Highways England,27,7,1,19,70.4
-Brighton and Sussex University Hospitals NHS Trust,27,7,7,13,48.1
+Metropolitan Police,28,7,2,19,67.9
 General Medical Council,27,16,0,11,40.7
+Highways England,27,7,1,19,70.4
 Greater Manchester Mental Health NHS Foundation Trust,27,13,1,13,48.1
+Brighton and Sussex University Hospitals NHS Trust,27,7,7,13,48.1
 Aneurin Bevan University Health Board,26,6,2,18,69.2
-Pennine Care NHS Foundation Trust,25,11,0,14,56.0
 Leeds Teaching Hospitals NHS Trust,25,8,2,15,60.0
+Pennine Care NHS Trust,25,9,4,12,48.0
